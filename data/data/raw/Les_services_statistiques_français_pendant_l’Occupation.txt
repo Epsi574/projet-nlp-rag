@@ -1,0 +1,1411 @@
+Robert Carmille
+
+
+
+Les services statistiques français pendant l’Occupation2000
+
+
+
+
+
+Exporté de Wikisource le 16 janvier 2026
+
+
+
+
+
+Avant-propos
+
+
+Cette brochure n’a pas pour objet de reconstituer toute l’histoire, ce qui n’a pas encore été fait, des services de la Démographie et du Service National des Statistiques, ainsi que l’histoire de la Statistique Générale de la France depuis juin 1940 jusqu’à sa suppression par l’acte du 11 octobre 1941[1].
+
+L’histoire de ces services comportant des informations détaillées sur leur organisation, leur fonctionnement et les travaux effectués, les activités civiles et de Résistance militaire, les objectifs atteints et ceux qui étaient prévus, tout cela fera partie d’une autre publication consacrée à la biographie du contrôleur général René Carmille.
+
+C’est une entreprise fort longue et très difficile et même semée d’embûches si on recherche la plus grande objectivité possible :
+
+beaucoup d’instructions officielles archivées étaient, en fait, modifiées ou annulées par des consignes orales secrètes[2] ;
+
+de nombreuses archives ont été détruites qui auraient été très utiles pour cette reconstitution : les fichiers et les états mécanographiques, les répertoires d’identification des personnes physiques de l’Algérie établis à partir de mai 1941, etc. * certaines archives, au SAEF et surtout au SHAT, ne peuvent pas encore être consultées avant longtemps et, pour les autres, l’obtention de dérogations demande de longues démarches ;
+
+parmi les archives consultables, quelques unes sont des témoignages très fantaisistes, des plaidoyers « pro domo » écrits après la Libération par des personnes craignant à tort ou à raison d’être victimes du « comité de la hache ».
+
+
+
+Des documents archivés ou se trouvant dans des publications de l’INSEE ou « Le journal de la Société de Statistique de Paris » ont été écrits, après 1946, par des anciens cadres de la SGF qui ont psychologiquement très mal vécu l’absorption de leur service artisanal par la grande usine. De nombreux documents sont très techniques, certains donnent des informations qui se contredisent ou ne sont pas vraisemblables : leur utilisation par des chercheurs n’ayant pas de connaissances suffisantes en mécanographie, en statistique démographique et dans l’organisation de l’État civil de l’Algérie des années 1834 à 1945 a parfois donné lieu à de graves erreurs d’interprétation dans des domaines moralement très sensibles.
+
+Le Service National des Statistiques est, à ma connaissance, la seule administration créée par Vichy à n’avoir pas été supprimée. Il a pu être utilisé rapidement pour la mobilisation de la toute nouvelle armée française, d’abord en Algérie en décembre 1942, puis en France métropolitaine en fin 1944, alors que la guerre n’était pas terminée.
+
+Il a fallu attendre 1973, à l’occasion des discussions du projet des informaticiens de l’INSEE appelé « SAFARI » (soit « Système Automatisé pour les Fichiers Administratifs et les Répertoires d’Identification » ).pour que des statisticiens et ensuite les médias s’intéressent aux instructions du SNS concernant des codifications raciales dans le N° d’identification à 13 chiffres des personnes physiques.
+
+Depuis 1980, plusieurs écrits ont été publiés, comportant sur le fichage des juifs, le STO et les activités de Résistance, des erreurs relayées parfois par de nombreux médias de Paris et de province.
+
+L’histoire des services statistiques pendant l’occupation mérite une recherche conduite sereinement, scientifiquement, et, autant que faire se peut, sans anachronismes.
+
+Cette étude historique, la plus objective possible, concerne les domaines les plus sensibles et les plus controversés actuellement : la personnalité de René Carmille, les origines de la création de la Démographie, les activités de Résistance de la Démographie, puis du Service National des Statistiques, le fichage des « juifs » et le STO[3].
+
+
+
+
+
+Les origines lointaines de la création du service de la démographie et du service national des statistiques
+
+
+Les origines lointaines de la création du Service de la Démographie, du Service national des Statistique puis de l’Insee remontent, en fait, au début des années 1930, en raison de la double, mais complémentaire personnalité du fondateur.
+
+
+
+
+
+René Carmille, un militaire de la Direction du Contrôle de l’Armée (X 1906)
+
+
+Un contrôleur de l’Armée est le plus souvent pour les civils (ce fut le cas pour les statisticiens de la SGF) un officier, un « militaire ».
+
+En réalité, dans l’Armée, la direction du Contrôle remplit une fonction très spécifique peu et mal connue du public.
+
+La présentation du budget du ministère de la Guerre et son exécution sont la préoccupation dominante de la Direction du Contrôle. Elle n’arrête pas le budget, prérogative du gouvernement et du Parlement, mais une de ses attributions budgétaires les plus importantes consiste à présenter, au ministre, des études sur les conséquences financières, et même, lorsqu’il s’agit de mesures d’ordre purement administratif, des conseils sur l’opportunité des programmes soumis à la décision ministérielle, sur la répartition entre les divers exercices des dépenses en résultant, et enfin sur la justification des crédits que les services proposent d’inscrire au projet de budget.
+
+C’est dans ce cadre qu’il faut situer les activités du Contrôleur de l’Armée René Carmille[4].
+
+
+
+
+
+Modernisation des systèmes de comptabilité Publique du ministère de la Guerre
+
+
+De 1927 à 1940, René Carmille s’est efforcé de moderniser les comptabilités-deniers et les comptabilités-matières de toutes les directions du Ministère de la Guerre en introduisant une comptabilité des dépenses engagées et en remplaçant une comptabilité statique par une comptabilité dynamique grâce à la mécanographie. Cela devait permettre de fournir des informations continues à la direction des établissements de l’industrie d’armement pendant tout le processus des fabrications. À cette époque, cela était révolutionnaire et fut très difficile et long à mettre en place. René Carmille a écrit qu’il n’avait jamais attaché qu’un sens instrumental à l’emploi des procédés mécanographiques dont il a poursuivi inlassablement la vulgarisation pendant 10 ans.
+
+En juin 1940, René Carmille avait réussi à organiser et à faire fonctionner des services mécanographiques de comptabilité à Paris, à Puteaux, à Vincennes et à Livry Gargan pour plusieurs directions du ministère de la Guerre. En juin 1940, une installation est en cours à Lyon pour la direction de l’Artillerie et son matériel mécanographique tout neuf est encore en caisses. Sauvé de nuit des réquisitions allemandes au titre des prises de guerre, il constituera le tout premier équipement du Service de la Démographie[5].
+
+
+
+
+
+Projet de révision de modernisation de la nomenclature des professions
+
+
+En 1937 et 1938, René Carmille fut membre, en qualité de représentant du ministre de la Guerre, de la « Commission de la production, et des échanges » du « Conseil Supérieur de la Statistique Générale et de la Documentation ». Cette commission était chargée de moderniser la nomenclature de la SGF pour lui donner une forme mécanographique. Cette commission n’aboutit à rien « en raison de la rare incompétence du directeur de la SGF, alors M. Fourgeaud » [6].
+
+
+
+
+
+Participation à des conférences sur la réforme générale de la comptabilité publique
+
+
+De janvier à juin 1939, le directeur du Contrôle et le Premier Président de la Cour des Comptes ont demandé à René Carmille d’organiser des conférences à la Cour des Comptes sur la réforme de la comptabilité Publique, conférences faites par le contrôleur Conquet (son adjoint) et par l’inspecteur des Finances Devaux.
+
+
+
+
+
+Projets de réforme du Service du Recrutement
+
+
+En février 1934, René Carmille fut chargé par le secrétaire général du ministère de la Guerre Robert Jacomet d’étudier toutes les modalités possibles d’une réforme du Service du Recrutement. Pendant 10 mois, il se livra dans trois régions militaires à un examen complet du fonctionnement du Service du Recrutement et des Centres de Mobilisation. Il présenta les résultats de cette étude dans cinq rapports (en tout 223 pages) datés du 24 décembre 1934 au 14 mars 1935.
+
+René Carmille concluait à une réforme complète du Service du Recrutement et des Centres de Mobilisation. Il préconisait un grand Service unique pourvu d’une direction nationale et de directions régionales correspondant aux régions militaires et dotées d’ateliers mécanographiques. Les bureaux départementaux étaient supprimés Il préconisait aussi, comme indispensable pour une exploitation mécanographique, l’adoption pour chaque appelé au service militaire d’un numéro matricule à structure analytique unique, qui, avec quelques transformations, devait devenir en avril 1941, le numéro d’identification à 13 chiffres toujours utilisé. Les bureaux départements devaient être supprimés.
+
+Ce projet étant révolutionnaire fut long à réaliser et lorsque la guerre a éclaté René Carmille ne put faire fonctionner à titre expérimental que le Bureau de Recrutement de Rouen qui fut doté d’un atelier mécanographique et dont le directeur fut le commandant Roques que nous allons bientôt retrouver au début août 1940 à Royat auprès du contrôleur général Carmille. Dans une autre lettre du 11 juin 1942 également adressée au contrôleur général Bois, René Carmille écrit que les matériels mécanographiques, des prototypes, installés à Rouen en mai 1939, sont maintenant en possession du Service de la Démographie. Il ajoute et c’est le plus important : « dans l’organisation actuelle du Service de la Démographie on a pris pour base le projet d’organisation du Service du Recrutement et des Centres de Mobilisation ».
+
+Au début de la guerre, le 30 octobre 1939, René Carmille a été désigné pour être adjoint à la Commission de l’Armée du Sénat. Fin novembre 1939, il s’est rendu avec M. le sénateur Rambaud à Rouen pour examiner les possibilités que donnait l’atelier d’essai du Bureau de Rouen dans le domaine du calcul et du contrôle des effectifs. Puis il a été détaché au ministère de l’Armement et dans le même temps il fut chargé d’une étude concernant la comptabilité nominative des officiers, active et réserve, sur les différents fronts.
+
+
+
+
+
+René Carmille, économiste par vocation profonde
+
+
+Une partie de sa carrière professionnelle a été militaire parce que, né en 1886, alors que l’Alsace-Lorraine était annexée, il a dû participer très activement à la guerre de 1914-1918 et à celle de 1939-1945.
+
+La science Économique et l’Économétrie furent à la base de presque toutes les activités de René Carmille, comme il l’a clairement exprimé.
+
+Dans ce domaine René Carmille fut à la fois écrivain, conférencier, professeur d’Économie Politique et membre de la Société de Statistique de Paris à partir de 1936.
+
+Il a toujours considéré * la mécanographie, la comptabilité publique, le plan comptable, comme des outils techniques ; * les services statistiques et leur école comme des outils scientifiques, tous étant au service de la science économique et économétrique.
+
+René Carmille a exposé cela en mars 1933 dans un article « Moyens statistiques et science économique » [7], qui se termine ainsi sur le rôle de l’économiste : (….) Son raisonnement seul ne peut suffire ; il n’aboutirait qu’à des abstractions dont l’excès a jeté parfois un certain discrédit sur la science économique. Il lui faut des moyens de documentation dont le plus important est la science statistique et notre but a été de montrer par des exemples concrets comment on peut l’utiliser à passer "de l’état qualitatif à l’état quantitatif et causal (….).
+
+
+
+
+
+L’écrivain
+
+
+René Carmille s’est d’abord intéressé aux problèmes de la monnaie et il a fait paraître, de 1927 à 1934,
+
+avril 1927 — « De la monnaie de papier à l’étalon-or » [8] ;
+
+
+
+mars 1928 — « La méthode économique » [9] ;
+
+
+
+novembre 1931 — « La crise économique et le crédit » [10] ; (dans cet article de 15 pages, René Carmille étudie, avec de nombreuses statistiques françaises et internationales à l’appui, la nature de la grande crise économique de 1929-1930. Il estime cette crise être sur certains points de nature différente des crises cycliques plus ou moins décennales de l’époque antérieure. Cet article montre que, en 1931, René Carmille consultait les statistiques des salaires, du chômage et les indices des prix de gros, de détail, pour la France et pour beaucoup de pays du monde, y compris le Japon. Il cherchait en économiste à en estimer la valeur et la signification) ;
+
+
+
+mars 1933 — « Moyens Statistiques et Science Économique » [11]. (dans cet article, il exprime encore plus nettement que la science Économique doit reposer sur des statistiques plus importantes et exactes que celles disponibles à l’époque. Cet article se termine ainsi, concernant le rôle de l’économiste : (…) Son seul raisonnement ne peut suffire ; il n’aboutirait qu’à des abstractions dont l’excès a jeté parfois un discrédit sur la science économique. Il lui faut des moyens de documentation dont le plus important est la science statistique, et notre but a été de montrer, par des exemples concrets, comment on peut l’utiliser à passer de l’état qualitatif à l’état quantitatif et causal (…).
+
+
+
+février 1935 « Vues d’économie objective » [12]. Dans ce livre, écrit deux ans après l’arrivée au pouvoir d’Hitler, René Carmille se livre (pages 232 à 234) à des considérations sur les caractères profonds des peuples de l’Allemagne, de l’URSS et de la France en 1935. Le chapitre consacré à l’Allemagne permet de savoir ce que René Carmille pensait de l’Allemagne en général et du nazisme en particulier ; et cela permet de savoir qu’il n’hésitait pas à le faire connaître dans une revue certainement lue par plusieurs services allemands. Certaines considérations ne seraient-elles pas encore d’actualité ? En voici quelques passages : (…) Au cours de son évolution économique, depuis 1850, l’Allemagne s’est toujours posée à elle — même, d’une façon primordiale, le problème de la production. Ce pays, dont la population a triplé en 80 ans, a passé d’une civilisation agreste et même sylvestre, aux formes industrielles les plus poussées. Pendant toute cette évolution, les dirigeants ont toujours cherché à produire au maximum sans se demander par qui serait absorbée la production (…). (…) Pour les grands chefs d’industrie, comme pour les grands chefs militaires, le véritable problème c’est celui de la puissance allemande, donc en matière économique, celui de la production ; pour être plus fort que le reste du monde, il faut produire davantage ; pour ne perdre aucun effort il faut nationaliser, organiser, concentrer pour diriger la production. Si cette direction de la production amène une surveillance de la répartition et de la consommation, ce n’est qu’une conséquence seconde. Il faut saisir toute la différence avec les idées françaises. En France, on peut dire que, depuis longtemps, tous ceux qui veulent diriger la production veulent essentiellement aboutir à la surveillance de la consommation, et, pour cela, de la répartition. La chaîne économique est exactement prise par le maillon opposé. Les Français ne peuvent comprendre les événements allemands que s’ils ont saisi cette différence essentielle.’ Une autre différence, non moins essentielle, c’est que l’Allemand n’attache que peu d’importance au fait actuel ; il vit pour le « devenir » [13]. Sa pensée est dans la transformation des êtres et des choses. Le Français, au contraire, conçoit un état déterminé qu’il veut atteindre souvent, mais plus souvent encore conserver. De là vient le caractère offensif de l’idée de direction économique en Allemagne, alors qu’en France le caractère est défensif. Qu’a changé Hitler à tout cela ? Rien, et il ne pouvait rien changer parce qu’il aurait pu changer l’âme germanique, produit de trois mille ans d’histoire.(…) (…) L’hitlérisme arrive à peu près exactement à la même organisation économique que le marxisme intégral appliqué par les Soviets russes, alors qu’il pensait avoir pris le contre-pied du marxisme (…). (…) L’hitlérisme allemand se croit et se déclare spiritualiste, et veut faire prédominer l’idée germanique nationale et raciste. Il conçoit donc l’État totalitaire, mais pour réaliser cet État, il fait régner un nationalisme offensif qui ne peut durer qu’au moyen d’une sorte de collectivisme, tantôt apparent, tantôt larvé, et qui, comme en Russie, supprime toute liberté humaine, même celle de penser en silence. Comme le marxisme russe, l’économie d’État allemande enlève au travailleur tout ce qui est nécessaire, pour augmenter, en vue de la satisfaction d’une mystique, les moyens de production au détriment de la consommation..(…).
+
+
+
+juillet-août 1938 — « La mécanographie au service de l’évolution économique » [14].
+
+
+
+septembre-octobre 1939 — « Sur le germanisme » [15]. Cet article publié au début de la guerre reprend en le développant ce qu’il avait écrit sur l’Allemagne en insistant sur l’origine de l’antisémitisme nazi. La fin mérite d’être citée : (…)"La pensée allemande ne conçoit de règne que par la contrainte et tant qu’elle n’est pas arrêtée par une force plus puissante et étrangère elle ne s’arrête pas d’elle même.(…). (… "Dans quelle mesure cette nation, cette puissance d’engendrer des mystiques explosives, peut être réduite et morcelée, c’est tout le problème de la paix qui suivra la guerre actuelle ; Il importe que, pour des siècles, cette force d’explosion ne puisse pas renaître.
+
+
+
+
+
+Professeur, conférencier…et banquier
+
+
+De 1928 à 1939, René Carmille fut professeur d’économie politique à l’École libre des Sciences Politiques de Paris et chaque mois de juin, il corrigeait les écrits en économie politique des élèves de toutes les sections[16]. Il a également dispensé un enseignement à des élèves d’une « préparation » au concours de l’Inspection des Finances. Grâce à cette École de la rue Saint Guillaume, René Carmille était particulièrement en relation avec Jacques Rueff, Wilfried Baumgartner et André Siegfried.
+
+En mai 1936, René Carmille fit deux conférences à la Sorbonne[17] sur l’histoire du calcul mécanique et sur les projets de réforme des Comptabilités Publiques et privées. Le conférencier fut présenté par Michel Huber, alors directeur de la SGF. Étaient présents M. linspecteur général des Finances Quesnot, membre de l’Institut, M. Labérie, procureur général près la Cour des Comptes, etc.
+
+En octobre 1937, René Carmille fit une conférence au sixième « congrès de science et technique bancaire » sur les problèmes soulevés par l’introduction de la mécanographie dans ce secteur particulier. Il fit preuve de connaissances assez approfondies sur les travaux qui étaient alors effectués dans les banques[18].
+
+Cela était d’autant moins étonnant que René Carmille avait été mis en disponibilité de l’Armée pendant plusieurs mois en 1928 pour exercer les fonctions de fondé de pouvoir d’une banque d’affaires.
+
+Octobre 1941 — La mécanographie dans les administrations « par René Carmille (deuxième édition)[19]. Actuellement pour les statisticiens de l’Insee, ce livre ne doit présenter aucun intérêt puis qu’il porte sur une technologie considéré comme « préhistorique » au même titre que les classi-compteurs de Lucien March. Cependant l’avant-propos de la deuxième édition, à mon avis, « vaut le détour ». René Carmille se révèle visionnaire lorsqu’il réfléchit à l’organisation économique et politique de l’Europe et du Monde après la fin du conflit en cours. Après avoir évoqué que la première édition de ce livre a été écrit en 1936 "à un moment où la France était en pleine effervescence sociale avec des manifestations à caractère d’émeutes, et, où, déjà, le péril extérieur prenait une évidence telle que, pour ne pas le voir, il fallait un inconcevable aveuglement, il continue : "Il était dès ce moment évident que l’interdépendance de rouages économiques de plus en plus nombreux et de plus en plus variés exigeait des systèmes comptables et statistiques précis et rapides. (….) Depuis lors des événements considérables se sont produits. La France a subi un désastre qui est sans précédent dans son Histoire, même si l’on considère l’état dans lequel elle se trouvait après la paix de Brétigny. Un conflit mondial est en cours qui rappelle par son ampleur les convulsions qui ont amené la chute de l’Empire romain
+
+
+
+On trouve ensuite : Cependant la vie continue. Des formes économiques et sociales s’ébauchent au milieu des ruines, et, si nul ne peut savoir quel sera leur dessin définitif, nous pouvons dès à présent savoir qu’elles seront complexes et qu’elles tendront à une interdépendance organisée des hommes et des choses. Que l’on considère l’un quelconque des groupes qui s’affrontent, ou qui attendent l’arme au pied le moment de s’affronter, l’on est bien obligée de constater que l’individualisme du XIXème siècle est en voie de disparaître et que la notion de liberté humaine subit un changement profond, sinon dans son essence même, du moins dans sa forme concrète. Quoiqu’il advienne du conflit actuel, quelles que soient les solutions qu’il recevra, on doit demeurer convaincu de la nécessité d’une future organisation méthodique du monde économique et social, tant sur le plan national que sur le plan international, même, si au lieu de se fonder une vaste communauté mondiale, il se fonde pour un temps deux ou trois groupes de communautés continentales. Et cette communauté ou ces communautés, subiront dans leur économie une réglementation très poussée, ou bien jouiront de cette réglementation, suivant le point de vue personnel de l’observateur. Peu importe le terme subjectif que l’on emploiera, la chose concrète restera la même ".
+
+Dans ce passage René Carmille se révèle * visionnaire à très court terme, lorsqu’il rédige, en Septembre 1941, cette phrase citée ci — dessus : « Que l’on considère l’un des groupes qui s’affrontent, ou qui attendent le moment de s’affronter » * visionnaire à très long terme Dans ces dernières phrases écrites en 1941, tout est annoncé, le GATT, la mondialisation et surtout la Communauté Économique Européenne, avec la réglementation très poussée et parfois tatillonne des Commissaires de Bruxelles. René Carmille prévoit aussi que certains estimeront subir ces réglementations, alors que d’autres estimeront en jouir.
+
+Quant à ses distractions favorites pendant ses congés, elles consistaient le plus souvent à discuter d’économétrie avec son ami F Divisia (x 1909) ou à s’entretenir avec son camarade de promo de l’X, Henri Malet de problèmes de géométrie non euclidienne et des avantages que pourraient présenter la numération à base 12, nombre divisible par 4 chiffres alors que le nombre 10 n’est divisible que par deux chiffres. En 1941 et 1942, René Carmille s’intéressera avec son collaborateur préféré, l’administrateur Sassi (X 1931) aux aspects mathématiques et théoriques des enquêtes par sondage[20]. Que René Carmille ait eu à la fois une activité de militaire et d’économiste, cela n’a pas été bien compris des statisticiens de la SGF ni aussi de ceux de l’Insee, mais c’est cependant normal si on se réfère au manuel du Contrôle de l’administration de l’Armée[21].
+
+Dans ce manuel, on peut lire : (….) « Le programme de votre concours exige de vous des connaissances étendues, tant en ce qui concerne la gestion des finances publiques et la réalisation des recettes de l’État que les règles présidant à la gestion des entreprises bancaires, industrielles et commerciales. Ce n’est pas seulement la théorie que vous devez posséder ; mais vous ne devez rien ignorer de la constitution, du fonctionnement des organismes le plus récents, de l’orientation des idées, et, par suite de l’évolution probable des institutions tant en France qu’à l’Étranger.Vous ne sauriez satisfaire à cette nécessité si toutes ces connaissances, classées sous la dénomination générale de » sciences politiques « , ne vous étaient aussi familière que les principes de l’administration militaire ; l’organisation financière d’un pays est, en effet, fonction de son organisation économique, politique et sociale, voire de ses relations internationales ; son développement se trouve lié à celui de toutes les branches de la vie intérieure et extérieure de la nation. » (….).
+
+La direction du Contrôle de l’Armée est, comme l’Inspection Générale des Finances, un organisme charnière entre l’administration et le politique. Les contrôleurs de l’Armée sont en contact permanent avec les chefs des Services et avec le ministre et son cabinet, ainsi qu’avec les députés et les sénateurs, membres des commissions parlementaires concernées. Comme les inspecteurs généraux des Finances, mais plus rarement qu’eux, les contrôleurs généraux de l’Armée sont parfois, sans abandonner leur corps, placés en service détaché pour diriger une administration importante. Ces détachements de contrôleurs de l’Armée dans d’autres ministères furent bien plus nombreux pendant l’occupation tout simplement parce que ces officiers ne furent jamais démobilisés alors que l’Armée active, dite « d’armistice » était réduite à cent mille hommes.
+
+Les causes lointaines de l’origine de la création du Service de la Démographie aboutissant à celle de l’Insee sont à rechercher dans le fait qu’en juillet 1940, il y avait une personnalité qui avait à la fois les connaissances, les capacités et la volonté d’entreprendre et de mener à bien une telle entreprise à la fois civile et militaire.. Après la Libération, la France serait bien parvenue à créer l’appareil statistique moderne dont elle avait besoin, mais on peut penser que René Carmille et la dissolution du Service du Recrutement lui ont fait gagner une bonne dizaine d’années.
+
+En 1999, des statisticiens de plusieurs organismes qui s’intéressent à l’histoire des services statistiques pendant l’occupation ont exprimé, sur le site internet « List Census », des opinions différentes sur les objectifs de départ que s’était fixé René Carmille. Pour quelques uns, l’objectif primordial de René Carmille était d’ordre militaire, de créer un Service secret de mobilisation sous la couverture d’un Service de statistiques civiles. Au passage, il se serait dit que profitant de cette activité de couverture, on pouvait tenter de développer un Institut de Statistique ; une fois le camouflage devenu inutile, il en resterait quelque chose d’utile. Mais cela était un objectif par surcroît et le service créé fin 1940 aurait été essentiellement militaire. D’autres, au contraire, minimisent fortement et parfois vont jusqu’à nier la réalité des objectifs et des activités militaires clandestines. Certains ont affirmé par des écrits rendus publics que quelques agents du SNS ont eu des activités de Résistance à titre personnel, mais que la Démographie et le SNS n’ont pas été des administrations Résistantes. Les documents archivés au SHAT, au SAEF et aux Archives Nationales prouvent indiscutablement que cela n’est pas exact… Les faits, qui sont par nature « têtus », prouvent que dès le début août 1940 René Carmille a eu comme objectif de doter la France à la fois d’un Service militaire de Recrutement et d’un Service civil de Statistique modernisés par l’introduction de l’outil mécanographique, l’utilisation des enquêtes par sondage et la création d’une École de formation des statisticiens.
+
+
+
+
+
+De juillet au 14 novembre 1940, préparation de la création du service de la démographie
+
+
+Trois faits primordiaux ont amené l’EMA, avec l’accord indispensable du « chef de l’État » et du Gouvernement à confier au contrôleur général René Carmille la mission de créer au ministère des Finances le Service de la Démographie.
+
+1° La convention d’armistice signée à Compiègne le 22 juin 1940 prescrivait le désarmement des forces armées françaises, à l’exception des unités nécessaires au maintien de l’ordre qui constituèrent « l’Armée de l’Armistice ». En conséquence, le Service du Recrutement et les Centres de mobilisation furent supprimés, leurs matériels et archives devant être réquisitionnés par les troupes d’occupation au titre de prises de guerre. Par contre, l’EMA et la direction du Contrôle furent maintenus en activité et par suite, René Carmille resta, jusqu’à sa mort en 1945 à Dachau, officier de l’Armée française[22].
+
+2° En 1939, la mobilisation de l’Armée française fut effectuée de manière peu satisfaisante. Des ouvriers et des cadres des usines d’armement furent mobilisés dans les Unités combattantes, ce qui désorganisa cette industrie. Un peu plus tard, on rappela ce personnel dans les usines au titre de l’affectation spéciale, ce qui désorganisa les Unités combattantes. Si les projets de René Carmille de 1935 sur la réforme complète du Service du Recrutement et des Centres de mobilisation avaient été suivis rapidement d’exécution, ces graves inconvénients auraient été en bonne partie évités.
+
+3° En août 1940, la majeure partie de l’activité du petit Service de la SGF consistait à continuer la publication des résultats du recensement quinquennal de la population de 1936, résultats complètement obsolètes qui, comme nous le verrons plus loin, n’intéressaient personne.
+
+L’histoire de cette période d’environ quatre mois aboutissant à la loi du 14 novembre 1940 créant le Service de la Démographie est difficile à reconstituer. Si elle a fait l’objet de quelques documents actuellement archivés au SAEF et au SHAT, elle a été l’occasion de nombreuses démarches discrètes et de certaines très secrètes de René Carmille avec le colonel Rivet chef du SR Guerre et avec le colonel Ronin chef du SR Air qui n’ont jamais cessé d’être en contacts journaliers avec l’Intelligence Service (IS) de sa « gracieuse Majesté britannique ».
+
+Du début juillet à la fin novembre 1940, le Contrôleur général René Carmille, en activité, a résidé à Royat (comme le colonel Rivet) dans deux chambres d’un grand hôtel réquisitionnées pour lui par l’EMA[23].
+
+Dès la fin début juin 1940, sans attendre des contacts avec l’EMA et avec des membres du Gouvernement René Carmille fit mettre à l’abri le matériel mécanographique du Bureau de Recrutement de Rouen et de l’atelier de la direction de l’Artillerie à Lyon. Il fit également mettre à l’abri les archives les plus importantes de la plupart du Service du Recrutement[24]. Dès le début août, il fit venir à Royat tous les officiers, chefs des services et des ateliers mécanographiques du ministère de la Guerre qu’il avait réussi à faire fonctionner : le commandant Gaston Roques directeur du Bureau de Recrutement de Rouen, le rédacteur du ministère des Finances Raymond Gaudriault, chef de l’atelier mécanographique du ministère de la Guerre, le lieutenant Grolleau, chef du Service mécanographique de l’établissement des fabrications d’armement de Puteaux, les officiers et sous-officiers Grolleau, Dépêche Rafin, Dufau qui tous firent carrière au SNS, puis à l’Insee. Vers la fin août, il fit venir le commandant Tindillières qui appartenait à la direction nationale du Service du Recrutement[25]. Tout ce personnel, environ une quinzaine de personnes travailla à Royat, Villa André, sous la direction du contrôleur général Carmille, à la préparation du futur Service et cela sans base juridique légale.
+
+Trois documents officiels d’archives apportent des informations précieuses.sur cette période où fut décidée et commencée la préparation de la création du Service de la Démographie.
+
+I— Considérations de principe du 16 août 1940, signée René Carmille[26]
+
+Dans ces « considérations de principe du 16 août 1940 », René Carmille, en une cinquantaine de lignes et un style très concis, exprime ses exigences pour le nouveau service à créer :
+
+1°— L’objet du Service est la démographie générale et particulière.de la Nation. Il doit fournir toutes les statistiques et les synthèses démographiques : statistiques de profession d’aptitudes, d’inaptitudes, d’instruction, sanitaires, etc.
+
+"Il faut qu’il
+
+soit habilité à exiger les renseignements nécessaires de toutes les administrations publiques ou privées ;
+
+soit seul à s’occuper de statistiques démographiques.
+
+
+
+La nature des relations avec les administrations publiques et privées et avec le Service de la Statistique Générale de la France doit être rigoureusement déterminée par la loi".
+
+2°— Le service à créer doit fournir des synthèses d’ordre national nécessaires au Gouvernement et doit comporter une forte administration centrale, mais les éléments de ces synthèses doivent être recueillis et contrôlés localement. Le Service de la Statistique Générale de la France n’a pas d’organes régionaux propres et est incapable de vérifier ses sources de renseignements
+
+L’ancien Service du Recrutement avait au contraire des organes locaux, mais dont la dissémination et le nombre ne lui permettaient pas d’utiliser les moyens modernes de travail. Son Administration centrale n’avait que des moyens très insuffisants de synthèse et d’inspection. Il ne faut tomber ni dans l’un ni dans l’autre de ses travers.
+
+Ce document se termine par cette information :
+
+« Les résultats obtenus à Rouen permettent d’affirmer que les méthodes sont au point, de même que la fixation des types de matériels nécessaires ».
+
+II— Compte-rendu du contrôleur général René Carmille du 12 juin 1942[27]
+
+Dans ce compte-rendu du 10 juin 1942 adressé au contrôleur général Bois[28], René Carmille déclare avoir, le 7 août 1940, été appelé télégraphiquement à Vichy où il recevait à la fois communication d’une note signée par le général Colson, établie par l’EMA, concernant le Service du Recrutement supprimé par la convention d’armistice et d’une autre note concernant l’éventualité de mesures à prendre, signée par le général Huntziger, alors directeur des Services de l’Armistice, mais déjà désigné comme ministre de la Guerre. Il lui fut demandé de présenter, dans un délai très bref, une étude concrète concernant ces mesures. Il était autorisé à parler avec M. Jardel des éventualités financières que posaient ses idées. Le ministre des Finances « a montré la plus large compréhension et la plus grande complaisance dans les grandes lignes ». Ce compte-rendu continue ainsi et cela est fort intéressant et significatif :
+
+« Le 16 août 1940, le contrôleur général soussigné a remis les avis 341 et 342 concernant le schéma de l’organisation du Service de la Démographie ».
+
+La période du 16 août au premier octobre a été employée aux tractations d’organisation du Service et à l’étude de son rattachement à un département ministériel autre que celui de la Guerre.
+
+« Après un essai infructueux de rattachement au ministère de la Jeunesse, inspiré je ne sais pourquoi par le général Colson, qui échoua par la totale incompréhension de M. Ybarnégaray, il a été décidé de rattacher le Service nouveau au ministère des Finances ».
+
+En septembre, il y a eu une certaine obstruction de la part du ministère de l’Intérieur, mais elle fut levée le 28 septembre après un entretien de René Carmille avec M. Peyrouton. Le projet de loi a été soumis aux ministres intéressés à partir du Ier octobre et il est devenu la loi du 14 novembre 1940. Pour gagner du temps, le ministre des Finances autorisait, en octobre, René Carmille à entrer en pourparlers avec la Compagnie des machines BULL pour jeter les bases d’un important marché qui ne pouvait être signé qu’après la parution de la loi au JO.
+
+Ce compte-rendu se termine ainsi :
+
+Je dois signaler que dans une conversation du 11 août 1940 avec le général Huntziger, le contrôleur général soussigné a fait approuver non seulement le projet d’organisation du Service de la Démographie, mais celui d’un service plus large, devant également s’occuper des questions économiques et qui est effectivement devenu le Service National des Statistiques, créé par la loi du 11 octobre 1941.
+
+Ces deux documents rédigés et signés par René Carmille prouvent bien qu’il avait bien dans sa tête, dès le début août 1940, grâce aux travaux qu’il avait effectués depuis une dizaine d’années, les deux objectifs de créer un Service de Recrutement et un Service civil de Statistique Générale dotés de matériels mécanographiques et de directions régionales[29].
+
+Ces documents prouvent aussi que dès août 1940, René Carmille avait décidé d’enlever à la SGF toutes ses compétences dans le domaine des statistiques et des études démographiques, c’est à dire, à l’époque, le principal de ses activités. L’activité restante de la SGF, que René Carmille ne voudra pas diriger de près, était celle dirigée de manière très indépendante depuis 1936 par Alfred Sauvy, les études économiques de conjoncture. Il y avait deux raisons à cela : René Carmille appréciait les travaux et publications d’Alfred Sauvy et il estimait (à tort ou à raison) que les études de conjoncture basées sur des extrapolations relevaient plus de l’art que de la science. Il savait aussi, que, en Allemagne, le « Statistiches Amt » était distinct du « Institut für » Wirtshaft forschung". On verra plus loin que cela a eu des conséquences très importantes sur le plan de l’éthique.
+
+Cette absorption d’une grande part des activités de la SGF a été facile à faire accepter parce que, en 1940 et 1941, une grande partie de l’activité de la SGF consistait à publier des résultats du recensement de la population de 1936. Ceux-la étaient devenus si obsolètes en raison du temps écoulé et en raison des grands déplacements de population à la suite de la défaite militaire (réfugiés, prisonniers de guerre) qu’ils n’avaient plus aucun intérêt pour le Gouvernement et les grande entreprises publiques et privées.
+
+III° — Lettre du ministre, secrétaire d’État à la Guerre, aux généraux commandant les divisions militaires, du 15 novembre 1940[30]
+
+Cette lettre d’une vingtaine de lignes annonce la création du Service de la Démographie Chargé des opérations de toute nature intéressant la population française sera rattaché au ministère des Finances.
+
+« Il est prévu que le cadre des administrateurs se recrutera parmi les officiers de l’Armée active. J’insiste tout particulièrement sur la nécessité de provoquer le maximum de candidatures et notamment celles d’un certain nombre d’officiers qualifiés, brevetés de préférence, qui seront appelés à poursuivre dans ce cadre une brillante carrière ».
+
+
+
+
+
+L’objectif militaire
+
+
+Fin juin 1940, ou au tout début juillet 1940, René Carmille se rendit à Royat où le colonel Rivet, chef des Services spéciaux militaires, lui demanda avec insistance de rester en France, où il pourrait rendre, à la cause française, de plus grands services qu’à Londres.
+
+Le Contrôleur général de l’Armée René Carmille était, à l’époque, le seul à pouvoir camoufler, en Service statistique civil, les Bureaux de Recrutement et les Centres de Mobilisation,
+
+en raison des études qu’il avait faites de 1934 à 1939 sur la modernisation du Service du Recrutement et des Centres de mobilisation basée sur l’emploi de la mécanographie. * en raison de son expérience des missions secrètes pour le compte du IIe Bureau de l’EMA.
+
+
+
+(En 1938, René Carmille fit un séjour à Londres, invité par le constructeur anglais de matériel mécanographique Samas Power. Il fut question de la filiale allemande de IBM, la Dehomag, qui avait été « nazifiée » en 1933.Les relations de René Carmille avec l’Intelligence Service ont probablement déjà commencé à cette occasion et il faut savoir que les Services spéciaux militaires français avaient noué de sérieuses relations avec l’Intelligence Service depuis 1935).
+
+Il est donc bien prouvé par des documents signés de sa main que c’est vers le tout début août 1940 que René Carmille fut en relation, avec les Officiers de l’État Major de l’Armée qui devaient deux ans plus tard, créer l’Organisation de Résistance de l’Armée. Le maréchal Pétain, les ministres de la Guerre, des Finances furent au courant des objectifs militaires secrets, et signèrent tous les textes parus au JO, indispensables pour la création et le fonctionnement de la Démographie, puis du SNS. Ils ne voulurent jamais promettre au contrôleur général Carmille de le couvrir au cas où il serait arrêté par les autorités d’occupation. En août 1940, il fut envisagé de rattacher le futur service de la Démographie au secrétariat d’État à la Jeunesse et au Sport, mais cela fut très vite abandonné parce que M. Ybarnégaray ne voulait pas qu’un service de son secrétariat dÉtat ait une activité secrète contre les Allemands et René Carmille avait, dès juillet 1940, un triple objectif. A celui de sauver de la destruction le Service du Recrutement, s’ajoutèrent celui de rendre possible, le moment venu, une mobilisation clandestine renforçant l’Armée d’Armistice.et celui d’absorber la Statistique Générale de la France pour créer le grand service statistique civil qu’il souhaitait dès 1933 dans divers articles de la Revue Politique et Parlementaire.
+
+Cette mobilisation clandestine n’était envisagée que dans le cas d’un débarquement des Alliés. Dès 1940, René Carmille était convaincu que les États Unis seraient amenés à intervenir, l’hégémonie nazie et antisémite sur sur toute l’Europe finissant par être perçue comme un danger pour eux.
+
+Il faut savoir et faire savoir (parce que cela a été un élément important dans la décision de René Carmille de préparer sur des cartons une mobilisation clandestine) que ces Officiers de l’EMA camouflèrent un considérable stock d’armes et d’équipements militaires pour environ 30 milliards de francs (le budget annuel de la SGF était d’environ trois à quatre millions). Nommé en novembre 1942 Secrétaire d’État à la Guerre, le général Bridoux, fervent partisan de la collaboration avec l’occupant, fit remettre aux Allemands la plus grande partie des armes qui avaient été camouflées.
+
+Jusqu’au décès du Général Huntziger ministre de la Guerre en novembre 1941, et son chef de cabinet, le colonel Lacaille soutenaient les activités de préparation de mobilisation clandestine, mais sans zèle excessif et secrètement. Ensuite et surtout après le retour de Laval, le Service National des Statistiques continua des travaux de mobilisation clandestine et diverses activités de Résistance alors que le gouvernement y était très nettement hostile. Lorsque le gouvernent de Vichy demanda la collaboration du SNS pour le fichage des Juifs et pour l’incorporation des jeunes au STO, René Carmille commença toujours par accepter par des lettres qui sont archivées au SAEF ; mais il est indiscutablement prouvé que, en réalité, le SNS n’a jamais fourni d’informations utilisables dans ces deux domaines. Pour cela, il donna parfois des consignes de ralentir les travaux commencés, tantôt, il introduisait dans la chaîne d’exploitation une opération inutile et longue, tantôt des instructions orales se substituaient aux instructions officielles (actuellement archivées) lorsqu’il s’agissait d’effectuer les travaux relatifs à la mobilisation clandestine.
+
+En novembre 1942, les Alliés ayant débarqué en Algérie et non en Métropole, une partie de ce que le SNS avait préparé fut conservé à Lyon et une petite partie seulement fut cachée dans un collège de Jésuites à Villefranche sur Saône. Rien d’important ne fut détruit, comme indiqué, à tort, dans ce rapport. A la Libération, les Jésuites apportèrent ce fichier à un officier subalterne de la Région Militaire à Lyon, qui, ne sachant qu’en faire, les fit détruire. Henri Bunle, Directeur général du SNS par intérim, n’avait pas voulu s’intéresser à cette affaire, jugée par lui, non sans raison, trop dangereuse après l’arrestation de René Carmille.
+
+Ce qui avait été préparé à la DR d’Alger du SNS, en fait de mobilisation, depuis février 1941, rendit de grands services aux Armées Françaises et Alliées. C’est pour cela qu’un « Certificate of Service » fut décerné à titre posthume à René Carmille par le Maréchal Montgomery.
+
+René Carmille choisit Lyon pour siège de la Direction générale de la Démographie, puis du SNS, pour n’être pas trop près de Vichy, alors que les Dirigeants « Vychystes » des différentes Administrations nouvellement créées cherchaient à se rapprocher de l’Hôtel du Parc, à Vichy.
+
+Le choix de Lyon n’était pas étranger au fait qu’une importante partie des Services spéciaux militaires se trouvait à Lyon, sous la couverture de la firme « Technica » [31].
+
+Ces faits incontestables montrent clairement que la Démographie, puis le SNS, étaient loin d’être des Administrations banales. Par la volonté très ferme de son Directeur, elle s’est démarquée, dès le début de 1941, des autres Administrations, qui n’ont pas, à ma connaissance, et à cette époque, préparé de mobilisation contre l’ennemi et entretenu des contacts avec les dirigeants du SR Terre, commandé par le lieutenant-colonel Perruche et du SR Air, commandé par le colonel Ronin, entrés rapidement en clandestinité totale.
+
+A l’État-Major de l’Armée d’armistice, de nombreux officiers estimaient plus ou moins le Maréchal Pétain, persuadés qu’il menait un double jeu. Comme indiqué plus haut, quelques uns comme le général Bridoux collaborèrent avec les Allemands en leur livrant en décembre 1942 une bonne partie de l’armement que d’autres officiers de l’Armée de Vichy avaient camouflé et entretenu[32].
+
+Ce ne fut pas le cas des dirigeants des Services spéciaux et du Contrôleur général Carmille qui ne cessa jamais d’être en contact avec eux, jusqu’à son arrestation, en France puis à Alger. En juin 1940, ces Services secrets continuèrent à maintenir, de France, jusqu’en novembre 1942, et ensuite à partir d’Alger, des relations quotidiennes avec Londres.
+
+Dans la note secrète du 27 juin 1945 on trouve :
+
+"A la demande de l’État-Major Général d’Alger auprès duquel des agents de liaison furent envoyés (administrateurs Caffot, Ostenc[33], le Contrôleur de l’Armée Conquet) des fichiers de spécialistes furent constitués dans certaines directions régionales.
+
+Un télégramme de Himmler à Hitler en décembre 1942 prouve qu’un officier du Deuxième Bureau à Vichy avait installé un dispositif d’écoute du câblé principal de la Wehrmacht Paris-Strasbourg-Berlin. Les informations recueillies, d’une grande importance militaire et politique, étaient transmises à Londres.
+
+Il est certain que René Carmille poursuivait bien des objectifs militaires et travaillait dans l’exercice de ses fonctions avec des officiers « Résistants » à l’occupation allemande, même s’ils n’étaient pas nombreux en 1941 et 1942). ===L’objectif civil===
+
+René Carmille avait, comme évoqué plus haut, des qualités et la volonté pour fonder et diriger un Service statistique civil, étant X de la promotion 1906, membre de la Société de Statistique de Paris depuis 1936, Maître de conférences d’Économie politique à l’École libre des Sciences Politiques de Paris de 1928 à 1939 et s’étant intéressé à la revue « Économétrica » avec son grand ami Divisia, X 1909.
+
+1° Depuis au moins 1933, René Carmille souhaitait la création d’un appareil statistique français bien plus important et efficace que ne l’était la SGF.
+
+Dans son article « Moyens statistiques et science économique » nous avons vu qu’il réclamait pour l’économiste « des moyens de documentation dont le plus important est la source statistique ».
+
+Son livre de 1935 « Vues d’économie objective » comprend un chapitre sur l’Économétrie où il déclare que, « sans utilisation de statistiques fiables, les travaux d’Économétrie risquent de n’être que des récréations mathématiques de haut niveau ».
+
+Les procès-verbaux des séances de la « Commission de la production, et des échanges » du « Conseil Supérieur de la Statistique Générale et de la Documentation » montrent clairement qu’il réclamait avec insistance la modernisation de la SGF. A ce sujet, il se heurtait déjà à Alfred Sauvy !
+
+2° Le Service National des Statistiques a été créé pour être, dès le début, un Service Statistique civil et peu à peu, tout en poursuivant des activités clandestines multiples.il l’a été pleinement.
+
+Après l’arrestation de René Carmille, Henri Bunle, soumis à des pressions contradictoires, s’est efforcé de conserver cet appareil statistique tout en souhaitant, pendant les premiers mois de sa direction par intérim, revenir à une SGF un peu étoffée, comme le souhaitait Alfred Sauvy. Ensuite, cet appareil a été conservé et a été très bien dirigé par Louis Closon qui n’était ni statisticien ni militaire.
+
+Le SNS a été un véritable Service Statistique et pas seulement en raison de la création le 31 mars 1942 d’une Section Sondage[34]. L’acte dit loi du 11 octobre 1941 déterminait clairement une organisation et des objectifs qui furent même conservés par l’Insee à ses débuts pendant plusieurs années.
+
+1— La SGF devint la Ie Direction du SNS (également appelée parfois « Direction de la Statistique Générale » et ne fut pas impliquée dans les travaux de nature militaire.
+
+En demandant, dès mars 1941[35] à Michel Huber, ancien Directeur de la SGF, alors à la retraite depuis 1936, de reprendre du service comme chargé de mission pour le seconder, cela était un signe fort de la volonté de René Carmille de constituer un véritable Service statistique civil.
+
+2— Le SNS a créé le corps des Inspecteurs Généraux et des Administrateurs, le cadre des Attachés et celui des commis. Pour les administrateurs et inspecteurs généraux, René Carmille avait obtenu une assimilation presque complète au corps des Ingénieurs des mines, qui n’a pu être maintenue par l’Insee. Cette assimilation ne pouvait être envisagée pour un Service de Recrutement.
+
+3— René Carmille a créé l’École d’Application du SNS par l’acte dit arrêté du 12 octobre 1942 qui a servi manifestement de modèle au décret du 2 novembre 1960 « créant » l’ENSAE.
+
+L’article 1 de cet arrêté de 1942 est très clair et significatif :
+
+« L’École d’application du SNS a pour but de former les Administrateurs et les Attachés du Service, d’autre part des statisticiens plus spécialement aptes à diriger des services de statistiques d’une grande entreprise industrielle ou commerciale ou de tout autre organisme exigeant les mêmes connaissances. »
+
+« L’enseignement de l’École est donné en liaison avec l’Institut de Statistique de l’Université de Paris et il porte sur toutes les connaissances se rattachant à la méthode statistique et à ses applications ».
+
+René Carmille a choisi Eugène Morice comme premier Directeur de cette École, en raison de ses travaux d’Économétrie et de la recommandation de Monsieur Divisia, X 1909, connu pour ses cours et ses ouvrages d’Économétrie et de Statistique Économique[36]. Eugène Morice exerça cette fonction de direction de l’École au SNS et ensuite à l’Insee jusqu’en 1962, ce qui est une preuve de continuité de l’appareil statistique mis en chantier en 1941.
+
+4— Création (par Instruction générale pour les Directions Régionales 295/C du 9 mai 1942) dans chaque Direction Régionale du SNS d’un Service statistique dirigé par un Administrateur statisticien. Il est précisé dans cette instruction :
+
+« Il ne suffit pas de rassembler des collections de chiffres, il faut en faire des synthèses périodiques significatives qui définissent la situation économique de la région.Ce travail doit être effectué par le statisticien de la Direction Régionale selon un plan établi par le Directeur de la I e Direction ». (En l’occurrence Henri Bunle).
+
+A partir de 1942, en attendant les statisticiens que l’École devait former, ont été nommés à ce poste des administrateurs ayant un bon niveau mathématique, astreints à suivre un stage de formation à Paris dans les Services de la 1e Direction du SNS, c’est à dire l’ancienne SGF.
+
+Par contre, Alfred Sauvy, par note N°5615 A/2P du 6 octobre 1942 a été désigné pour suivre un stage technique d’information à la DG— Lyon du 15 au 30 octobre 1942. Cela mérite d’être signalé parce que, pour des raisons de sécurité, Alfred Sauvy n’était pas impliqué dans les travaux clandestins. Cela signifie que René Carmille souhaitait que les dirigeants de la 1e direction (ex SGF) exclusivement impliqués dans les statistiques civiles aient des notions de mécanographie.
+
+5— Création de la III e Direction du SNS, chargée des statistiques industrielles et agricoles. A partir de 1942, le SNS a organisé et exploité des enquêtes agricoles. L’Insee a très largement utilisé les travaux effectués dans ce domaine en 1942 et 1943. Mais ces archives ont ensuite été détruites vers la fin des années 1950.
+
+Le SNS a également établi en 1941, adaptées à la mécanographie, une nomenclature des professions et une nomenclature des établissements, qui furent utilisées par l’Insee avec quelques modifications. C’est dans ce domaine très important, tant pour la constitution du fichier militaire que pour les statistiques civiles, que Michel Huber aida le plus René Carmille.
+
+6— René Carmille a recruté deux médecins dont l’un a été chargé d’établir un code des causes de décès, utilisé ensuite par l’Insee.
+
+7— Le SNS a pu détacher dans chaque Département un agent dans la Commission départementale d’observation des prix, ce que les moyens réduits de la SGF ne permettaient pas.
+
+8— René Carmille a, dès avril 1941, demandé des rapports concernant à la fois la théorie des sondages et les conditions d’une utilisation pratique à Messieurs Stoetzel, agrégé de philosophie, Divisia (X 1909), professeur d’économie politique à l’École Polytechnique, Paul Lévy (membre de l’Institut et X 1904) et Jacques Chapelon (X 1905 (professeurs d’analyse à l’École Polytechnique), Albert Sassi, administrateur du SNS (X 1931) et Michel Huber, alors « directeur général honoraire du SNS » )[37].
+
+Par une note de service du 31 mars 1942, René Carmille créa une section « Sondages », (qui n’existait pas à la SGF) qu’il a rattachée à son cabinet et dont le premier chef fut le chargé de mission du SNS, Monsieur Stoetzel. On peut ajouter que, rédigé par René Carmille peu avant son arrestation, l’acte, dit décret du 30 mars 1944, attribuait au SNS un droit de contrôle général sur toutes les enquêtes par sondage qui seraient demandées par les administrations publiques[38].
+
+8— Dès 1940, le nouveau régime de Vichy avait supprimé ou suspendu tous les organismes consultatifs existant auprès de plusieurs Ministères. Le Conseil Supérieur de la Statistique, créé en janvier 1885, devenu Conseil Supérieur de la Statistique et de la Documentation en mars 1937, fut expressément supprimé par l’article 15 de la loi du 11 novembre 1941 créant le SNS.
+
+René Carmille est parvenu, non sans difficulté, à instituer, par décret du 15 juillet 1943, « Le Comité Supérieur de la Statistique et de la Documentation » qui put se réunir deux fois, avant son arrestation. Parmi les quatre membres, non de droit, mais à titre personnel, René Carmille a tenu à y faire nommer l’économiste et statisticien Divisia et non des militaires.
+
+9— Peu avant son arrestation, René Carmille avait entrepris de mettre sur pied une commission, constituée de personnalités extérieures (M.M. A.Laribe, Hurault, de Martonne, Siegfried et dont il voulait prendre la présidence, pour examiner le travail d’ensemble établi par les directions régionales depuis fin 1941 sur la délimitation des régions naturelles[39].
+
+Tout cela demande de bien plus longs développements qui seront présentés ultérieurement, mais ce catalogue de certaines activités du SNS pendant l’occupation constitue déjà une contribution à l’analyse historique souhaitée par l’Insee depuis 1992.
+
+
+
+
+
+LES ACTIVITÉS DE RÉSISTANCE DE LA DÉMOGRAPHIE ET DU SERVICE NATIONAL DES STATISTIQUES
+
+
+Ces deux services ont eu, en tant qu’institution et de par la volonté du contrôleur général de l’Armée René Carmille, cinq catégories d’activités collectives de Résistance à l’occupant et aussi au régime de Vichy.
+
+
+
+
+
+Camouflage de la Direction du Recrutement et des Centres de mobilisation
+
+
+La plus importante opération clandestine qui a duré pendant toute l’occupation et qui a parfaitement été réussie fut le camouflage du service du recrutement et des centres de mobilisation.
+
+La preuve la plus convaincante et même spectaculaire a été donnée par la réquisition militaire de la direction régionale du SNS d’Alger.
+
+Le débarquement des Alliés en Afrique du Nord a commencé le 8 Novembre 1942 et un peu moins d’un mois après, le 5 Décembre 1942, la direction régionale du SNS d’Alger fut réquisitionnée par les autorités militaires en totalité (personnel, matériels mécanographiques.et locaux). Son directeur, l’Administrateur Braconnot, fût mobilisé sur place avec son ancien grade (en 1940) de lieutenant-colonel ; les autres anciens Officiers et Sous-Officiers d’active ou de réserve furent également mobilisés, retrouvant leurs anciens grades militaires.
+
+« Cette réquisition a été transformée en réquisition militaire le 5 janvier 1943 au profit de la 19e Région lorsque le service a été requis par l’autorité militaire en exécution des notes n° 177 EMG, I, /0 et 626 EMG, I/0 des 5 et 26 décembre 1942. » [40]
+
+Cette réquisition ne prit fin que le 1er Septembre 1946, mais le Service ne cessa pratiquement d’être tributaire du ministère de la Guerre que vers le 1er Janvier 1947. L’Armée utilisa ce Service du ministère de l’Économie et des Finances jusqu’à la reconstitution de son propre Service régional d’Alger de la Direction Recrutement et Statistique.
+
+La mobilisation en Afrique du Nord de 80.000 hommes et, peu après, de 120.000 hommes, commencée début décembre 1942, fût extrêmement rapide ! Le Service Statistique d’Alger du SNS y contribua, en partie dirigé secrètement de Lyon par l’intermédiaire des trois Agents de liaison de René Carmille, les administrateurs Ostenc et Caffot, le contrôleur de l’Armée Conquet [41].
+
+Le maréchal britannique Montgomery qui commandait la VIIIème Armée en Afrique du Nord a décerné en mai 1946 à titre posthume à René Carmille un « Certificate of Service » parce qu’il a reconnu l’importance de cette mobilisation rapide de la nouvelle armée française d’Afrique du Nord lors des violents combats engagés à la frontière algéro-tunisienne au début de l’année 1943.
+
+Les 18 directions régionales de la Démographie, puis du SNS, aussi bien en France métropolitaine qu’en Algérie, ont effectué les mêmes travaux avec du personnel de même origine, avec des documents et du matériel de même nature, il en résulte que les 17 directions régionales de France pouvaient se transformer en Services de l’Armée, en cas de débarquement des troupes des Alliés, comme ce fut le cas en Alger.
+
+Une deuxième preuve de ce camouflage a été apportée par un document du ministère de l’Intérieur qui fournit un extrait de la déposition du Sonder führer Walter Wilde, prisonnier de guerre depuis le 30 août 1944.[42]
+
+(….) Je faisais partie de la Section III F du capitaine Fuchs. La section a reçu de Paris un dossier dans lequel se trouvaient des renseignements sur un bureau spécial de Lyon qui sous le couvert de recensement de la population était en réalité un organisme secret de mobilisation ; Nous étions informés que que la presque totalité des dirigeants de cet organisme étaient des officiers généraux ou supérieurs.
+
+…………………………………………………………………………………………..
+
+En février 1943 une expertise faite par la Centrale de Paris (hôtel Lutétia) de fiches qui avaient été soustraites par des agents dont deux Français avait apporté la preuve que l’on se trouvait non en présence d’un bureau de recensement mais d’un bureau de mobilisation. (….).
+
+Cette déposition est particulièrement importante parce qu’elle rend complètement inexact et parfois volontairement tendancieux tout ce qui a été écrit dans la note secrète du 27 juin 1945, ce qui a été publié dans le livre du colonel de Dainville [43] et repris ensuite de nombreuses fois, accréditant la conviction que le contrôleur général Carmille n’a pas été arrêté pour les activités du Service National des Statistiques. Comme nous le verrons plus loin. Par site, certains en concluront bien légèrement a eu au SNS des activités personnelles de Résistance, mais que le SNS n’a pas été une Administration Résistante.
+
+Cette déposition, très crédible par la précision des détails qui ont pu être recoupés avec des documents archivés au SHAT, atteste l’existence de deux indicateurs Français qui ne pouvaient être que des cadres d’un grade certainement pas subalterne. Walter Wilde ajouta que, après de sérieuses hésitations, il fut décidé de ne pas fermer ce Service pour ne pas mettre au chômage plusieurs milliers de personnes dont de nombreux officiers qu’il valait mieux pouvoir surveiller. Il est fort possible aussi que l’un de ces indicateurs, non démasqué (qui a continué très probablement sa carrière à l’INSEE) ait suggéré à la Gestapo, que, en arrêtant « le patron » tout serait arrêté.
+
+Une troisième preuve convaincante du camouflage de la direction du Recrutement est fournie par la lettre du directeur général des Services Spéciaux Jacques Soustelle du 15 septembre 1944 au ministre de la Guerre. Il lui signale l’importance de la documentation rassemblée par le SNS en matière de recrutement et de mobilisation. Ce témoignage est particulièrement significatif parce que Jacques. Soustelle faisait partie de l’entourage du Général de Gaulle, à Londres puis à Alger.[44]
+
+La dernière preuve, qui à elle seule, serait suffisante, résulte du fait que peu après la Libération de Paris, fin août 1944, plusieurs directions régionales du SNS, sans être réquisitionnées, ont, effectué des travaux de mobilisation de la nouvelle Armée française, en attendant que l’EMA puisse reconstituer le Service du « Recrutement et Statistiques » Toute une correspondance conservée au SAEF entre le directeur général par intérim du SNS et l’Armée prouve cela d’une manière incontestable.
+
+
+
+
+
+Préparation de la mobilisation clandestine d’août 1940 à novembre 1942
+
+
+La deuxième opération secrète a été la préparation de la mobilisation clandestine d’environ 350 000 hommes à mobiliser pour renforcer l’armée d’armistice dans le cas de la reprise des combats contre l’occupant.
+
+Les seuls documents sérieux sur cette opération sont :
+
+le rapport du Général Pfister [45] ;
+
+
+
+le rapport très détaillé de Raymond Gaudriault, inspecteur général de l’INSEE (retraité) qui a été avec l’administrateur Gaston Roques particulièrement impliqué dans cette opération militaire secrète depuis août 1940, avant même la création.de la Démographie !
+
+
+
+la note secrète concernant l’action anti-allemande de M. le Contrôleur général de l’Armée Carmille, Directeur général du Service national des statistiques, du 27 juin 1945[46].
+
+
+
+Cette Note avait été demandée après la Libération par la Justice militaire à la direction du Contrôle de l’Administration de l’Armée qui avait demandé à la direction générale du SNS de répondre. Comme toute note secrète, elle ne porte pas de signature et il est difficile de découvrir qui a pu la rédiger, seul ou à plusieurs. Elle comporte à la fois des informations de caractère objectif et de caractère subjectif.
+
+Au bas de la page 1 de cette note, on trouve :
+
+(….) « La disparition du Recrutement fournit à René Carmille l’occasion de faire créer le service civil de la Démographie (et plus tard celui du Service national des statistiques) où il pouvait, en mettant en application les vues de comptabilités et de statistiques mécanographiques qu’il préconisait depuis dix ans, reprendre clandestinement toutes les questions de Recrutement, Recensement et Mobilisation. » (….).
+
+Cette vaste opération secrète a duré deux ans, mettant en œuvre beaucoup de personnel et de matériel, à Lyon et dans les six directions régionales de la zone non occupée et à la direction régionale d’Alger. Elle est assez difficile à reconstituer parce qu’elle a été effectuée sur instructions orales secrètes et en partie par du personnel hors hiérarchie.(parfois des attachés adjoints et des commis). Ce fait explique que les chercheurs actuels trouvent au SAEF des témoignages parfois fantaisistes écrits et signés après la Libération par quelques cadres qui avaient été écartés plus ou moins de ces activités pour des raisons impérieuses de sécurité, et non forcément, parce que René Carmille se méfiait d’eux. Autant que faire se pouvait, il ne confiait pas à la même personne une activité secrète portant sur des travaux effectués dans le Service et les activités de liaison avec les organismes extérieurs, militaires et de Résistance. Ce rapport de l’inspecteur général de l’INSEE Raymond Gaudriault (retraité) sur une opération mécanographique est le seul, et je tiens à le souligner, qui a été rédigé par le spécialiste de mécanographie qui a participé très activement à cette opération depuis avant même la création de la Démographie. En voici l’essentiel :
+
+1° Sauvetage des archives et du matériel du Service du Recrutement, dissous par la Convention d’Armistice.
+
+Avec l’appui du Général Colson, René Carmille, en sa qualité de Contrôleur Général de l’Armée, réussit d’août à septembre 1940 à sauver l’essentiel des archives des Bureaux de Recrutement dissous par l’acte dit loi du 25 août 1940 conformément à la Convention d’Armistice. Il réussit à sauver des réquisitions de la Wehrmacht la plupart du matériel appartenant aux Services du Ministère de la Défense Nationale et considéré comme prise de guerre. Quelques unes des tabulatrices ainsi récupérées furent encore utilisées par l’INSEE à ses débuts.
+
+Ce sauvetage d’archives militaires avait une autre importante utilité (qui n’avait pas échappé à René Carmille) que celle de permettre une préparation de mobilisation.La destruction de ces archives aurait entraîné pour le Ministère des Finances l’impossibilité de calculer et de payer les primes de démobilisation, les pensions d’invalidité pour blessures de guerre, les reconstitutions de carrière pour le calcul des retraites, etc…En août 1940, les Autorités d’occupation et la plupart des Ministres de Vichy acceptaient ces destructions sans réfléchir aux conséquences, très certainement génératrices de troubles touchant des millions de personnes, en comptant les familles concernées.
+
+Ce sauvetage effectué parfois de nuit dans des conditions dangereuses est donc, à mon avis, à verser à l’actif des activités bénéfiques et de Résistance de la Démographie.
+
+2° A partir du 1er janvier 1941, création d’un Service nouveau avec une Direction nationale et 18 Directions régionales dont une à Alger.
+
+Il a fallu trouver des locaux, se procurer les machines mécanographiques. La Cie Bull construisit rapidement une usine à Lyon, route de Vienne, pour fournir les nombreuses perforatrices de cartes nécessaires pour 15 Directions régionales et l’Établissement central. 6
+
+— Il a fallu établir les statuts de nouveaux corps d’Inspecteurs-Administrateurs, d’Administrateurs, d’Attachés, de Commis, recruter plusieurs centaines de fonctionnaires titulaires et former les premier cadres à la technologie mécanographie (stage de 3 moi) à partir des trois Officiers Roques, Dépêche et Gaudriault ayant déjà travaillé dans les Services du Ministère de la Guerre, à Rouen, Puteaux et Paris, créés et organisés avant-guerre, à l’initiative de René Carmille ; il furent assistés par un ingénieur de la Société Bull, M. de Sauville. 7
+
+3° Établissement des répertoires d’identification des personnes physiques à partir d’une étude très complète faite par René Carmille, dès le début de l’année 1935, à des fins militaires.
+
+Il a été nécessaire et même indispensable d’établir en priorité les répertoires d’identification pour environ 55 millions de personnes, hommes et femmes, parce qu’il n’était pas envisageable de ne traiter que les hommes mobilisables. Commencés en avril 1941, ces répertoires de toute la France métropolitaine étaient terminés en août 1941 pour les personnes âgées de 1 à 60 ans.
+
+4° La confection des fichiers mécanographiques n’a pu commencer que vers le mois de juillet 1941 :
+
+— Le fichier mécanographique N° 1.
+
+Ce fichier de cartes perforées fut composé de plusieurs fichiers établis à l’Établissement central, à Lyon à l’aide des informations individuelles à caractère spécifiquement militaire provenant des archives récupérées du Service du Recrutement :
+
+Fichier de tous les militaires démobilisés établi officiellement pour déterminer les droits des démobilisés et de leurs ayant-droit en matière de pensions emplois civils, récompenses, blessures de guerre, etc.Au début 1941, les Autorités d’occupation acceptèrent que ces archives soient utilisées par ce nouveau Service parce qu’elles craignaient des troubles d’ordre public de la part d’une population privée de rémunérations jugées acquises. Il leur fut également signalé que, sans contrôle, de nombreux démobilisés réussissaient à percevoir plusieurs fois la prime de démobilisation. Cet argument fut utile dans les négociations avec la Direction du Budget du Ministère des Finances.
+
+Fichier des Prisonniers de Guerre et des Rapatriés.
+
+Fichier des contingents des chantiers de jeunesse
+
+Fichier des cadres de métier de l’Armée d’Armistice.
+
+Fichier des anciens affectés spéciaux
+
+— Le fichier mécanographique N° 2.
+
+Ce fichier a été obtenu par l’exploitation, par les six Directions régionales de la zone non occupée, du recensement des Activité Professionnelles du 17 juillet 1941 concernant toutes les personnes des deux sexes âgées de 14 à 65 ans et résidant dans cette zone.
+
+Ce fichier contenait les adresses à la date de juillet 1941 qui furent ensuite mises à jour par l’exploitation des demandes de cartes de tabac et non par les déclarations de changement de domicile qui ne commencèrent à être remplies qu’en mai 1942. Ce fichier contenait aussi des informations non rapidement obsolètes mais indispensables pour la formation des Unités militaires : nombre d’enfants (l’EMA avait décidé de ne pas mobiliser les pères de 4 enfants et plus), degré d’instruction, permis de conduire, profession actuelle et accessoire, taux d’invalidité.
+
+Ces deux fichiers nominatifs 1 et 2, concernant des millions de personnes étaient confidentiels, mais pas secrets et leur existence était connue des Autorités d’occupation.
+
+La confection de ces fichiers était faite en parallèle par des Établissements différents, par instructions sécrètes et parfois hors hiérarchie.Le grand souci fut de les faire avancer en même temps.
+
+— Le fichier mécanographique N° 3.
+
+Ce fichier fut constitué à l’Établissement central à Lyon, les instructions secrètes étant ignorées de son Directeur Georges Sanson qui le savait et l’avait accepté pour des raisons de sécurité.
+
+La liaison des deux séries d’information du fichier N°1 et du N° 2 des 6 directions régionales a été faite en parallèle grâce au N° d’identification perforé sur les cartes. Ce fichier de près d’un million de cartes fut affiné à l’aide du fichier des contingents des chantiers de jeunesse, de celui des Prisonniers de Guerre, de celui des affectés spéciaux et surtout avec le concours de quelques Officiers de l’EMA et les Commandants de Région Militaire. Cela permit de constituer un fichier dont une partie concernant environ 50 000 hommes était destinée à permettre le renforcement des Divisions de l’Armée d’armistice de Métropole et l’autre partie concernant environ 250 000 hommes était destinée à permettre le doublement des Divisions existantes et à en tripler certaines. Ce fichier No 3 comportait un contrôle nominatif et un fichier mécanographique d’ordres d’appel, prêts à poster. Le contrôle nominatif, Unité par Unité fut poussé jusqu’au bataillon pour l’Infanterie, pour l’Artillerie à l’échelon groupe et pour les autres Armes à l’échelon Unité administrative.
+
+Ces listes nominatives furent remises au Lieutenant-colonel Georges Pfister alors Sous-Chef du 1er Bureau de l’EMA, qui après le 11 novembre 1941 dirigea une partie des maquis de l’ORA de la zone Sud. Après la Libération, il fut promu Général et Sous-Chef de l’EMA. En cette qualité il fit un rapport, où l’on trouve [47] :
+
+« Dès la fin de l’été 1942, le SNS me remit le contrôle nominatif de chaque Unité et établit les ordres d’appel sous les drapeaux nécessaires (environ 300 000 hommes) ».
+
+Les 300 000 ordres de convocation furent établis sur cartes mécanographiques de modèle courant. En clair figurait le nom et prénom et adresse ; en perforation l’unité d’affectation, l’échelon de convocation, la commune et le département de domicile. Pour faciliter la confection de ces cartes adresses, les administrateurs Roques et Gaudriault firent fabriquer un dispositif d’alimentation des cartes perforées sur duplicateur à stencil.
+
+Il était très dangereux de conserver ce fichier prêt à l’emploi, d’où l’idée d’entremêler les positions des différentes informations sur les cartes, rendant ainsi l’information illisible. Une grille établie en deux exemplaires rétablissait les positions correctes par des connexions appropriées des tabulatrices. Un exemplaire de cette grille était conservé par Albert Sassi chef du Service mécanographique de l’Établissement central et l’autre par Raymond Gaudriault, du Service Technique de la Direction Générale, place des Jacobins à Lyon.
+
+En commentaire de ce rapport, une courte biographie de A. Sassi qui devait être mon chef de service, un peu plus tard me paraît utile :
+
+Albert Sassi (X 1931), lieutenant dans un bataillon de chars en 1939-40, nommé administrateur de la Démographie dès novembre 1940, est devenu en quelques mois un des très bons spécialistes de la mécanographie ; en novembre 1941, il s’intéressa, encouragé par René Carmille, à des recherches en statistique mathématique. À partir de juin 1941, c’est lui qui dirigea à l’Établissement central de Lyon les travaux mécanographiques secrets en élaborant lui-même les instructions nécessaires en liaison personnelle directe avec René Carmille.
+
+En fin 1941 et 1942, René Carmille réunissait tous les lundis à Lyon le conseil de direction du SNS qui était composé des Inspecteurs généraux Marie, Balourdet et de Saint Salvy (venant parfois de Paris) et des directeurs et chefs de Services Cucherat, Adam, Roques, puis Sassi et à titre spécial Gaudriault qui était adjoint du chef du Service Technique. La direction de la Statistique Générale dont le chef était Henri Bunle a peut-être été représentée épisodiquement par Jean Becker, ancien statisticien de la SGF qui fut avant la directeur de l’antenne de la SGF à Strasbourg. René Carmille ne cachait guère qu’il avait l’intention, après la Libération, de nommer Jean Becker directeur de la direction régionale de Strasbourg, souhait qui fut concrétisé par Henri Bunle. Toutes ces personnes (y compris de Saint Salvy) étaient très globalement au courant de ces travaux secrets, mais chacune à des degrés différents. Quant aux travaux précis, ils étaient confiés par le directeur général directement à des administrateurs, à des attachés et même quelque fois à des commis.
+
+Au sujet de ce qui a été témoigné par les uns ou les autres sur ces activités, l’inspecteur général de l’INSEE en retraite Raymond Gaudriault m’a écrit le 13 novembre 1996 :
+
+« Votre père était le seul à avoir une vue d’ensemble des activités de uns et des autres et sa disparition a laissé la facilité à certains de dire ce qu’ils voulaient, surtout lorsque ces activités étaient couvertes par le secret et que les circuits officiels étaient plus ou moins respectés ».
+
+Ce très important travail n’a pu servir, mais fut très utile
+
+En novembre 1942, la Wehrmacht et la Gestapo ont envahi la zone Sud et l’Armée d’Armistice a été désarmée sans combattre. Cet important travail de préparation de mobilisation clandestine n’a pu jouer le rôle qui lui avait été attribué, mais une partie importante a été conservée, utilisée, rendant parfois des services appréciés.
+
+Le fichier mécanographique 3 ne pouvait plus servir. Contrairement à ce qui a parfois été affirmé, il n’a pas été détruit en novembre 1942, mais transporté (à l’aide d’une charrette à bras jusqu’à la gare) par les administrateurs Sassi et Gaudriault [48] dans les caves d’un Collège de Jésuites près de Villefranche sur Saône. À la Libération, les Jésuites apportèrent ce fichier à un officier subalterne de la Région Militaire à Lyon qui, ne sachant qu’en faire, le fit détruire. Henri Bunle, Directeur général du SNS par intérim, n’avait pas voulu s’intéresser à cette affaire, jugée, non sans raison, dangereuse après l’arrestation de René Carmille.
+
+
+
+Le fichier 1 composé des cinq fichiers mentionnés ci-dessus ont été conservés et ont été très utiles pour les administrations du ministère de la Défense Nationale et du ministère des Finances ainsi que pour les démobilisés, les Prisonniers de guerre et leurs ayants droit.En juillet 1940, les Allemands avaient décidé de les détruire et Pétain l’avait bien accepté en signant la Convention d’Armistice !
+
+
+
+Le fichier N° 2 était celui issu du Recensement des Activités Professionnelles de juillet 1941. Ce fichier et les bulletins de ce Recensement eurent assez peu d’utilité parce que les résultats de son exploitation ne furent pas publiés et aucune mise à jour ne fut entreprise pour ne pas fournir d’informations valables en 1943 pour le STO.
+
+
+
+Le Répertoire d’identification des personnes physiques. Cet énorme travail, commencé en avril 1941 pour permettre les travaux de préparation de mobilisation militaire est toujours continué par l’INSEE de nos jours. Il est utilisé par la Sécurité Sociale pour l’identification des assurés et pour la gestion de toutes les prestations sociales. Plusieurs autres organismes importants l’utilisent pour vérifier la conformité de l’État civil de leurs ressortissants, qui leur est fourni, avec l’État civil authentique.
+
+
+
+Lorsqu’en novembre 1942, René Carmille sut que ce fichier ne servirait pas, en famille, il ne parut pas être particulièrement découragé. Il devait réaliser qu’il construisait un Service qui serait utile à la France, un jour ou l’autre.
+
+
+
+
+
+Préparation de mobilisation de spécialistes à effectuer lors des débarquements des Alliés en France
+
+
+La troisième activité secrète et par suite de Résistance a consisté à établir au cours du deuxième semestre de 1943 et le début de 1944 de listes d’environ 120 000 spécialistes à mobiliser lors du débarquement des troupes alliées [49] Après l’occupation de toute la France en novembre 1942, le contrôleur général René Carmille continua à entretenir des relations avec le Commandement militaire français d’Alger, avec le colonel Rivet, chef de Services spéciaux et avec le colonel Ronin, chef du SR Air, c’est à dire les mêmes qu’il fréquentait en juillet et août 1940 à Royat.
+
+Pour cela, René Carmille envoya en mission à Alger les administrateurs du SNS Eugène Ostenc (lieutenant-colonel, X 1921) et André Caffot (lieutenant)[50]
+
+Fin décembre 1943, il envoya en Alger, pour y rester, le contrôleur de l’Armée Conquet qui avait été son adjoint de 1936 à 1939 pour la création des services mécanographiques du ministère de la Défense Nationale[51]
+
+Par ces liaisons, les commandements Français et Alliés avaient fait connaître à René Carmille qu’ils souhaitaient, lors des opérations de débarquement, pouvoir mobiliser rapidement des spécialistes mécaniciens et électriciens de la réparation automobile et particulièrement de la réparation des véhicules à chenilles.
+
+À l’établissement Central à Lyon (dont j’étais alors chef de l’atelier mécanographique), fut constitué, pour chacune des 17 directions régionales) une cartothèque mécanographique concernant environ 120 000 spécialistes. Elle avait été établie à partir des fiches de démobilisation modèle B5 et des fiches des affectés spéciaux. Chaque carte indiquait le nom, l’adresse, l’âge, la profession, le grade, la fonction et la spécialité dans l’Armée en 1940. Ces informations étaient codées selon un code très secret et différent pour chaque direction régionale. Elles étaient transcrites sur des rouleaux de papier d’une quinzaine de centimètres de largeur ; la direction régionale devait les retranscrire sur cartes perforées.ce matériel secret fut remis (par moi, sur ordre direct de mon père) aux directions régionales de Marseille et Toulouse. À Toulouse, cette opération fut confiée non au directeur mais à l’attaché adjoint Pierre Latappi. J’ai appris, bien après la Libération, que René Carmille avait remis un matériel similaire directement à Bressot Perrin, directeur régional de Montpellier qui a relaté cette opération en détail dans une lettre de 3 pages [52]. Mon père m’avait chargé de la même mission pour le directeur régional de Lille, mais au dernier moment celui-la a fait connaître qu’il la refusait, cette opération étant jugée par lui trop dangereuse en zone interdite sous administration directe des troupes d’occupation.
+
+Le dossier de justice Audouin ABDR W7 des archives départementales des Bouches du Rhône donne des informations très précises sur le détail de la préparation de cette opération qui a concerné toutes les directions régionales
+
+Une confirmation de l’existence de cette opération a été apportée par le témoignage du contrôleur général Conquet fait le 25 janvier 1955 lors de cérémonies militaires organisées en présence du général Zeller pour le dixième anniversaire de la mort à Dachau de René Carmille.
+
+« Non Conquet, je n’ai pas le droit de vous suivre. Si j’ai le pouvoir de vous envoyer là où vous allez, il faut que vous y alliez seul. Dites leur qu’il y a tout un plan de mobilisation ; il est au point. Qu’ils fassent connaître leurs besoins et toutes mesures seront prises pour qu’au jour du débarquement ces besoins soient satisfaits ».
+
+Cette opération a échoué au dernier moment parce que, après l’arrestation de René Carmille, le directeur général par intérim Henri Bunle a décidé de l’arrêter. Fin avril 1944, le directeur de la II e direction Pierre Cucherat m’a envoyé en mission au PC national ORA dirigé alors par le général Revers pour faire prévenir de cela l’État-major d’Alger.
+
+Cette opération militaire secrète de Résistance a échoué au dernier moment parce que, après l’arrestation de mon père, le directeur général par intérim, Henri Bunle, un statisticien civil non préparé à diriger une opération militaire secrète a décidé de l’arrêter[53].
+
+Fin avril 1944, le directeur de la II e direction, Pierre Cucherat, m’a envoyé sur ordre non écrit en mission dans le Tarn, au PC national ORA dirigé par le Général Revers, pour faire prévenir de cela l’État-major d’Alger et demander des instructions.qui ne furent jamais données.parce que la liaison radio ne fonctionna pas et par suite l’EMA d’Alger ne reçut pas ce message. Comme indiqué ci-dessus, Pierre Cucherat décédait brusquement le 19 juin 1944 et je n’ai fait état de cette mission que récemment.
+
+
+
+
+
+Après la Libération de la France, utilisation par l’Armée des directions régionales du SNS
+
+
+De nombreux documents archivés au SAEF prouvent, ce qui peut être considéré comme une quatrième activité de Résistance, que, peu après la Libération de la France métropolitaine, toutes les directions régionales du SNS ont effectué très rapidement d’importants travaux de recrutement et de mobilisation pour le compte du ministère de la Défense nationale du Gouvernement provisoire de la République Française. Cela a duré le temps que l’armée puisse reconstituer son propre service Statistique et recrutement.
+
+La preuve la plus indiscutable et même la plus spectaculaire a été donnée par la réquisition militaire de la direction régionale d’Alger du SNS qui a pu très vite fonctionner comme un Bureau de Recrutement et un Centre de Mobilisation. Or toutes les directions de métropole effectuant les mêmes travaux, elles pouvaient aussi fonctionner de la même façon.
+
+Cela n’a pu être réalisé que parce que cela avait été préparé pendant l’occupation et dans la clandestinité. Les preuves écrites les plus significatives sont fournies par la lettre du Directeur des Services Spéciaux Jacques Soustelle au Ministre de la Guerre du 15 septembre 1944 [54] et par les rapports des directions régionales de Lyon, Bordeaux et Limoges sur leurs activités de Résistance dans le cadre du Service National des Statistiques.
+
+
+
+
+
+Le Service National des Statistiques, administration Résistante ?
+
+
+En raison de toutes leurs activités de Résistance, 18 Fonctionnaires et Agents du SNS sont « morts pour la France » dont 8 sont morts dans les camps de Dachau, de Mathausen et de Dortmund et 7 ont été fusillés après avoir été torturés. Il faut ajouter 3 directeurs régionaux déportés et un emprisonné.
+
+Le contrôleur général de l’Armée et directeur général du Service National des Statistiques a été cité à l’ordre de l’Armée sur proposition du Président du Gouvernement de la République Georges Bidault [55] :
+
+« Magnifique fonctionnaire du Contrôle ; Dès l’Armistice de juin 1940, n’a pas cessé d’apporter à la cause française une aide efficace et désintéressé. Sous le couvert d’une mission économique et sociale créée et organisée par ses soins, prépara un plan de mobilisation des forces vives de la Nation. Se sachant soupçonné par l’ennemi, n’hésita pasà continuer son travail, demeurant à son poste au mépris des dangers courus. Arrêté, en février 1944, fut déporté en juillet au camp de Dachau où il mourut d’épuisement le 25 janvier 1945. Bel exemple de patriotisme et d’abnégation totale ».
+
+Fait à Paris, le 25 septembre 1946.
+
+L’administrateur du SNS Gaston Roques membre du réseau Dupleix puis du réseau Marco Polo fut cité à l’ordre du corps d’Armée pour ses activités de Résistance dans le cadre du Service National des Statistiques des renseignements jugé d’un grand intérêt par les Alliés. Cette citation est signée Charles de Gaulle [56]
+
+Dans les archives du SAEF [57] on trouve des rapports datés de 1945 qui font état des activités de Résistance de l’institution direction régionale, particulièrement à Lyon, Bordeaux, Limoges et Dijon. Il s’agit de fourniture de fausses identités et de fausses situation militaire pour les requis au STO et pour les Alsaciens-Lorrains, de camouflage des archives secrètes des Bureaux de Recrutement, de fournitures aux services du ministère de l’Intérieur de documents concernant la population datant de 1931, d’hébergement de Prisonniers évadés et de membres de réseaux dans les locaux de la direction régionale, etc.
+
+Selon ces rapports, dans chaque direction régionale une quinzaine d’agents ont pris part, à titre individuel, aux combats de la Libération à partir d’avril-mai 1944.
+
+Le Commissaire régional de la République Bourges-Maunoury atteste par lettre du 18 août 1945 de la valeur des études statistiques de la direction régionale du Service National des Statistiques de Bordeaux. à partir de la Libération. Pendant l’occupation son directeur Jean Lanxade, faisant partie du réseau Andalousie, avait établi des fausses cartes d’identité et des faux certificats de position militaire en faveur de jeunes désignés pour le STO et il a fait exécuter des travaux clandestins pour mise sur pied du plan de mobilisation des 9° et 18°régions [58]
+
+Les agents de la direction générale du SNS, membres de réseaux sont [59] :
+
+Réseau Marco polo : René Carmille, Lionel Wurmser, Jean Maissiat, Jacqueline Hardivillier, ainsi que Gaston Roques également membre du réseau Dupleix
+
+
+
+Réseau Jade Fitzroy : Louis Cochet et Jean Baptiste Brosse.
+
+
+
+SŒ Buckmaster : Eugène Ostenc,.chargé d’une mission de liaison avec l’ÉMA d’Alger.
+
+
+
+ORA : Robert Carmille (carte de membre actif n°2 454) chargé par le directeur de la IIe direction d’une mission au PC national ORA du premier mai à fin septembre 1944 [60]
+
+
+
+Dans chaque direction régionale de France métropolitaine 10 à 20 Agents du SNS ont participé à la Résistance armée ou à des activités de renseignements à partir de février 1944. La liste complète de ces agents du SNS mentionnant leurs actions de Résistance figure dans les archives du SAEF[61].
+
+À l’exception des administrateurs Cucherat, Roques, Gaudriault, Caffot, Baruteau, Louvet, Jacquey, tous les collaborateurs de René Carmille les plus impliqués dans les activités de Résistance du SNS étaient polytechniciens : l’inspecteur général Marie, les administrateurs Wurmser, Bressot-Perrin, Sassi, Ostenc, Viennot, Cadouin, Marchand, Braconnot (directeur régional à Alger), Perrein (directeur régional à Clermont-Ferrand).
+
+Dès septembre 1940 et en toute connaissance de la finalité sécrète de Résistance, Georges Vieillard (X 1914), un des deux dirigeants de la compagnie des machines Bull, et Raoul Hermieu, imprimeur des cartes mécanographiques (X 1906) apportèrent à René Carmille un concours indispensable, mais non sans risques pour eux.René Carmille a également témoigné d’une éelle averson à l’égard de la collaboration par sa lettre du 27 janvier 1942 par laquelle il prie un administrateur de démissionner immédiatement d’un roupe « Collaboration », avec copie de cette lettre à son miistre et au Chef de l’Etat Pétain [62]
+
+Le 16 octobre 1942, il écrit à monsieur Jacob pour lui témoigner qu’il trouve très satisfaisant ses travaux en vue d’améliorer les machines mécanographiques Ce que l’on peut noter, c’est que cet ingénieur Juif était, à cette époque, recherché par la Gestapo et que cette lettre est signée en qualité de directeur général du Service National des Statistiques, avec le cachet officiel [63]
+
+Le 27 janvier 1944 René Carmille écrit à son ministre pour l’informer que l’administrateur Panebœuf, chef du personnel du SNS est aussi membre de la Milice avec une fonction importante. De ce fait, il doit quitter mon Administration et il faut l’affecter rapidement ailleurs.
+
+
+
+
+
+"LE FICHAGE DES JUIFS"
+
+
+Jusqu’au début des années 1970 personne ne s’était préoccupé de ce qui avait pu être fait pendant l’occupation au sujet des juifs par la SGF, la Démographie puis par le SNS.
+
+Lorsque, à partir de 1992, j’ai consulté les archives du SAEF, mon attention a été vite attirée sur les nombreuses correspondances, instructions et notes de service concernant le fichage des juifs dont certaines étaient adressées au directeur de l’Établissement central à Lyon, l’administrateur de 1e classe Georges Sanson. Or, je fus, de février 1943 à fin avril 1944, chef de l’atelier mécanographique de l’Établissement central, cours de Verdun à Lyon.
+
+J’atteste n’avoir jamais reçu de telles instructions concernant les juifs. Une grande partie des travaux de mon atelier étant secrète, les instructions étaient données oralement par Albert Sassi, chef du Service Technique de la direction générale, place des Jacobins. Le directeur Sanson n’a jamais visité le service mécanographique, ni donné d’instruction pendant cette période, ce qu’il faisait souvent, après la Libération, selon un rapport d’inspection de novembre 1946[64]. Quelques instructions encore plus secrètes ont été données par le directeur général René Carmille directement à moi et aussi parfois directement au chef opérateur Barbezieux et au commis chef de l’atelier de codification Bruyère.
+
+Divers témoignages écrits (et certains, faits oralement), font apparaître que les directeurs régionaux (qui ont aussi reçu des instructions pour des travaux militaires secrets) n’auraient pas transmis à leurs services toutes les instructions officielles qu’ils devaient, comme M. Sanson, conserver dans leurs bureaux pour les montrer éventuellement aux Allemands. L’examen de ces instructions et des compte-rendus de travaux par un spécialiste de mécanographie révèle des incohérences manifestement voulues.
+
+Les historiens qui fondent leur analyse historique et leurs jugements sur le dogme que toutes les instructions officielles de la Démographie puis du SNS concernant le fichage des Juifs étaient applicables et qu’elles ont été appliquées se trompent complètement et par suite font commettre des erreurs à leurs lecteurs et aux journalistes qui utilisent leurs écrits.
+
+Le service de la Démographie, puis le Service National des Statistiques ont été confrontés aux problèmes éthiques du fichage des juifs dans trois de ses activités :
+
+le répertoire d’identification des personnes physiques de l’Algérie,
+
+
+
+le recensement des Activités Professionnelles de juillet 1941,
+
+
+
+l’exploitation à la direction régionale de Clermont-Ferrand du recensement des juifs de juin 1941 en zone non occupée.
+
+
+
+
+
+LE RÉPERTOIRE NATIONAL D’IDENTIFICATION DES PERSONNES PHYSIQUES
+
+
+L’histoire des répertoires d’identification des personnes physiques (commencés en avril 1941 et toujours continués par l’INSEE) impose la recherche de nombreux documents dont l’interprétation correcte n’est pas facile et exige une reconstitution du contexte historique en ce qui concerne particulièrement le répertoire d’identification des personnes de l’Algérie
+
+En mars 1996, j’ai consacré à cette histoire particulière une brochure de 43 pages [65] qui comporte des erreurs et des lacunes, plusieurs documents importants d’archives n’ayant été versés au SAEF qu’en mars 1999.
+
+
+
+
+
+Une idée très ancienne
+
+
+L’idée d’établir une identification générale de tous les Français a été émise en 1844 dans un livre publié par un notaire de Rouen [66].
+
+Cette idée fut très mal accueillie, considérée fantaisiste, voire utopique. À l’époque, les comptabilités et les statistiques étaient effectuées de manière trop artisanale pour que cette institution fut efficace et rentable. Le mérite de René Carmille fut de comprendre très vite qu’elle devenait utile, rentable et même indispensable pour une bonne utilisation des matériels mécanographiques.
+
+
+
+
+
+Cinq rapports précurseurs en 1935
+
+
+Du 24 Décembre 1934 au 14 Mars 1935, René Carmille a rédigé cinq rapports (n° 66 à 70 comportant 223 pages en tout) où il étudie en détail la possibilité de remplacer les bureaux de recrutement et les centres de mobilisation départementaux par des directions régionales dotées de matériels mécanographiques.
+
+Ces rapports ont conduit à la création du numéro et du répertoire d’identification. Fin 1940, ils ont été utilisés par René Carmille pour concevoir le schéma d’organisation du futur service de la Démographie. Une note de 1945 signale que ces rapports, établis en 1935, conservaient toute leur valeur pour la reconstitution du service de Recrutement de l’armée française nouvelle.
+
+Dans le rapport n° 67 (page 37), il écrit, concernant l’identification des appelés au service militaire :
+
+“L’identité absolue de l’individu doit être demandée à son numéro matricule. Il faut donc, qu’à aucun moment, sur l’ensemble du territoire Français, deux individus ne puissent avoir le même numéro. Pour cela nous avons un moyen sûr, qui est de décomposer le numéro en éléments permettant un classement facile. Nous proposons : la classe de recrutement, le département, la commune, puis un numéro d’une série allant de 1 à 999.”
+
+Ce n’est pas encore le numéro à 13 chiffres du service de la Démographie et de la Sécurité Sociale parce que le service militaire ne concernait que les hommes et que le recours aux actes d État-Civil n’était pas jugé indispensable. René Carmille aura, peut-être, jugé que c’était trop demander en une seule fois [67].
+
+
+
+
+
+Création en avril 1941 du répertoire d’identification des personnes pour la France métropolitaine et l’Algérie
+
+
+Pour porter un jugement objectif sur cette opération effectuée sous l’occupation, trois considérations sont obligatoirement à prendre en compte.
+
+1 — Malgré son coût très élevé [68], le répertoire a pu être créé et financé parce qu’il était indispensable, à la fois,
+
+pour les travaux de préparation de mobilisation clandestine ;
+
+pour l’exploitation moderne des statistiques démographiques civiles ;
+
+pour un essai de préparation de mobilisation industrielle clandestine,.rapidement interrompu (aussi bien en France qu’en Algérie) par le Ministre de l’Industrie du Gouvernement de Vichy.
+
+Tels étaient les objectifs secrets et officiels de cette opération.
+
+Le fichage des Juifs n’en faisait pas partie,.ce qui est incontestable puisque les répertoires établis en France métropolitaine n’ont pas comporté de mentions de discrimination raciale ou religieuse et qu’il en fut de même pour les répertoires de l’Algérie malgré des apparences trompeuses.
+
+2 — Pour la France, en moins de trois mois, du milieu avril à fin juin 1941, pour l’Algérie, en moins de 5 mois, de fin avril à fin août 1941, les répertoires d’identification ont été établis pour environ 65 millions de personnes nées de 1881 à 1940 inclus [69]. La rapidité d’exécution exigée et obtenue excluait de prescrire, à un personnel non formé à cela, des recherches généalogiques ou autres longues, très difficiles et ne présentant pas d’intérêt pour la réalisation des objectifs attendus.
+
+3 — Le répertoire d’identification a été établi de 1941 à 1962 par relevés des actes de naissance de l’État-civil.de France métropolitaine et de l’État-civil de l’Algérie.
+
+On ne peut étudier sérieusement l’histoire du répertoire de l’Algérie sans étudier aussi l’histoire de l’État-civil de l’Algérie de 1834 à 1945 et sans avoir consulté le cinquante-cinquième volume de l’annuaire de la Statistique Générale de la France.
+
+
+
+
+
+Nécessité du recours aux greffiers de Justice et accord indispensable du ministre de la Justice
+
+
+René Carmille avait fait déterminer avec soin que pour le relevé d’environ 65 millions d’actes de naissance, le recours aux greffiers des tribunaux de Justice était indispensable, pour réduire au maximum la durée de ce gros travail, jugé très urgent pour mener à bien et rapidement toutes les exploitations mécanographiques secrètes et officielles programmées, pour que ces relevés soient exécutés par des personnes habituées à travailler consciencieusement sur les registres de naissance sous la responsabilité de magistrats, pour réaliser une économie importante [70] en évitant le recrutement de personnel supplémentaire à former pour une courte durée et auquel il aurait fallu payer des indemnités de déplacement [71].
+
+L’accord du ministre de la Justice pour l’utilisation des greffiers a été demandé par lettre N° 512 / 02 du 25 mars 1941 du ministre de l’Économie Nationale et des Finances au ministre de la Justice, signée Carmille [72]
+
+Cette lettre commence en rappelant que la loi du 14 novembre 1940 a chargé le service de la Démographie d’effectuer des statistiques de toute nature sur la population de la France et que cette loi invite toute les Administrations Publiques à lui fournir sous la forme qu’il lui indiquera tous les renseignements qui lui sont nécessaires.
+
+Pour remplir sa mission, le service de la Démographie doit relever dans un délai très bref sur les registres d’état-civil de France et d’Algérie les noms, prénoms, lieux et dates de naissance de toutes les personnes nées depuis 1871.Ce relevé doit être fait sur des imprimés du modèle ci-joint. J’envisage de demander à MM. les Procureurs Généraux toutes les instructions utiles pour que Greffiers soient à même de commencer le travail à une date aussi rapprochée que possible du 15 avril prochain ; En ce qui concerne la zone libre et l’Algérie, les greffiers recevront directement des directeurs régionaux de la Démographie toutes les directives et les imprimés nécessaires.
+
+Cette lettre se termine ainsi :
+
+Je vous serais bien obligé de bien vouloir, en me donnant votre accord, me préciser le nombre et le siège des greffes existant et m’indiquer par quelle voie je puis leur faire parvenir des instructions et des imprimés.
+
+Il ressort de cette lettre que la décision de faire exécuter ces relevés par les greffiers des tribunaux avait été déjà prise et que le ministre de la Justice Raphaël Allibert était invité à donner très vite son accord. À l’époque, il était le plus antisémite des ministres du gouvernement de Vichy. Les faits montrent que le ministre de la Justice a immédiatement donné son accord, mais sa lettre de réponse n’a pas été retrouvée qui pourrait probablement présenter un réel intérêt pour cette recherche historique. M. Allibert a pu, par exemple, évoquer le nouveau statut des Juifs de l’Algérie.
+
+Cela permettrait de comprendre pourquoi l’administrateur-inspecteur Gaston Marie aurait adressé, le 31 Mars 1941 (six jours après la lettre au ministre de la Justice), une note au directeur régional d’Alger.
+
+Cette note (dont l’authenticité n’est pas certaine) n’est ni une instruction ni une note de service et ne porte pas le timbre d’un Service, mais : « Administrateur-inspecteur Marie en mission (à Alger). » Cette note soulève les problèmes liés à l’existence en Algérie de deux États-civils, à la présence d’une communauté juive dont les membres figurent sur les registres de naissance des Français et à l’abrogation du décret Crémieux en août 1940. Cette note signale que les Juifs sont inscrits sur les mêmes registres que les Français et suggère que que des études soient entreprises pour pouvoir distinguer les « Juifs indigènes » par les chiffres 5 ou 6 et les « Indigènes musulmans » par les chiffres 3 et 4.
+
+Pour cela, Gaston Marie préconise que la direction régionale d’Alger entreprenne des études généalogiques pour rechercher les Juifs naturalisés par le décret Crémieux et leurs descendants. Il ne sait manifestement pas comment de telles études peuvent être faites par un personnel non spécialisé et combien de temps serait nécessaire, alors que ce répertoire est jugé à juste titre très urgent.[73]
+
+En réalité, cette note devait particulièrement satisfaire le ministre de la Justice R. Allibert et l’inciter à donner immédiatement l’accord intensément souhaité. Avec d’autres documents qui vont suivre, il s’agissait de leurres pour dissimuler la véritable activité de cette direction régionale qui devait en décembre 1942 être réquisitionnée par l’Armée française de la France Libre.
+
+
+
+
+
+Les deux instructions véritables du vendredi 11 avril 1941 valables pour la France et l’Algérie
+
+
+La création en 1941 du répertoire d’identification des personnes nées de 1881 à 1940 a fait l’objet de deux documents de base dont les dispositions structurelles ont été peu modifiées par l’INSEE Le premier document est l’instruction aux greffiers qui prescrit avec précision comment ils devront effectuer les listes d’identification. Le second est l’instruction prescrivant les modalités exactes de la détermination du numéro d’identification à partir des listes établies par les greffiers.
+
+NOTE N° 705 / 0.2 du 11 Avril 1941, adressée aux greffiers des tribunaux de première instance de France et d’Algérie et à toutes les directions régionales de la Démographie y compris celle d’Alger[74].
+
+Cette Note signale en premier que le relevé des Actes de naissance a pour but de dresser des listes d’identification à partir desquelles toute personne née en France ou en Algérie pourra être dotée d’un numéro d’identification par la direction régionale de la région où elle est née.
+
+Il est précisé que le relevé des Actes d’Etat civil sera effectué par les greffiers “pour toutes les communes de France et d’Algérie pour les années de naissance 1881 à 1940 inclus.”2° — Les relevés sont effectués sur des imprimés modèle I[75]. qui sont des feuilles de format 23x 27 cm imprimées sur deux faces portant la mention recto et verso. page 2 :
+
+(….) « Ces listes doivent être écrites très lisiblement, sans omission, sans surcharge et sans grattage. Toute inscription erronée sera rayée et reportée à la ligne suivante. » (….)
+
+Ces listes comportent le nom du département et de la commune et toutes les feuilles d’une même commune seront numérotées à partir de l’année 1881. page 4, on trouve les renseignements à porter sur les listes :
+
+N° de l’acte de naissance.
+
+
+
+Nom : en capitales ou en lettres cursives très lisibles et un peu plus hautes que celles du reste du texte.
+
+
+
+Prénoms : au complet.
+
+
+
+Sexe : représenté par la lettre M ou F.
+
+
+
+Date : les mois seront numérotés de 01 à 12.
+
+
+
+La colonne N° d’identification devra être laissée en blanc.
+
+Il est ensuite indiqué que les travaux terminés seront groupés par département, dans chaque département par commune, dans chaque commune par ordre chronologique, et adressés à la Direction Régionale de la Démographie.
+
+« Les travaux seront dirigés et contrôlés par les administrateurs de la Démographie sous l’autorité et la responsabilité des directeurs régionaux du Service de la Démographie. Les administrateurs procéderont à une vérification portant sur 2% des listes prélevées au hasard. »
+
+Cette note se termine en fixant la rémunération des greffiers au taux unique de onze centimes et demi par relevé d’Actes de naissance, “ toutefois une prime supplémentaire d’un demi centime sera allouée pour tous les relevés effectués en zone libre avant le 30 Juin 1941, en zone occupée à une date qui sera fixée ultérieurement". [76]
+
+INSTRUCTION N° 704 / 0.2 du 11 avril 1941, Lyon, relative à l’établissement d’un répertoire d’identification des personnes nées en France.
+
+Cette instruction (de 10 pages plus des annexes) est adressée aux 18 directions régionales de la Démographie, la direction régionale d’Alger comprise [77].
+
+Cette instruction lance la confection des répertoires d’identification des personnes à partir des listes d’identification établies par les greffiers et parfois par les agents de la Démographie. Elle commence ainsi :
+
+"L’attribution d’un numéro d’identification à toute personne susceptible d’être recensée est une des bases du travail du Service de la Démographie. Des additifs feront connaître les règles de composition et du Numéro d’identification et les conditions d’établissement du Répertoire pour les personnes nées en Algérie, dans les Colonies, Protectorats ou Pays sous mandat et dans les Pays Étrangers.
+
+TITRE I Autorité qui détermine le numéro d’identification de chaque personne. (page 2)
+
+Le numéro d’identification est établi pour chaque personne par le directeur régional de son lieu de naissance [78].
+
+Quelques exceptions sont prévues parce que la ligne de démarcation coupe en deux certaines régions. Certaines directions régionales n’étant pas encore installées, leurs répertoires seront provisoirement effectués par une autre. En annexe figurent toutes les informations à ce sujet.
+
+TITRE II Règles de composition du numéro d’identification (page 2)
+
+Le numéro d’identification est formé de cinq composantes ; les quatre premières indiquent, à simple lecture :
+
+le sexe
+
+
+
+l’année de naissance
+
+
+
+le mois de naissance
+
+
+
+le lieu de naissance
+
+
+
+la cinquième est un N° d’ordre
+
+
+
+Il est ensuite prescrit que l’année de naissance est indiquée par les deux derniers chiffres de son millésime. Le lieu de naissance est est donné par un groupe de 5 chiffres, les deus premiers indiquant le département, les trois derniers la commune. Le numéro de chaque département et des communes se trouve dans le code des communes établi par le Service technique de la Direction centrale de la Démographie. Le numéro d’ordre est un groupe de trois chiffres de la série 001 à 999, déterminé pour chaque personne par son rang d’inscription sur la liste d’identification. [79]
+
+TITRE III Établissement d’un répertoire d’identification régional (page 5)
+
+Les listes d’identification (imprimé modèle I) sont réunies dans des classeurs à levier contenant environ 4 à 500 feuilles remplies recto verso pour former le Répertoire régional [80].
+
+Cette instruction insiste à la fois sur la qualité et la rapidité du travail en souhaitant qu’il soit terminé pour la France métropolitaine le 30 juin 1941. La composition du numéro d’identification est évidemment la même que celle indiquée dans la note 705 2 / 0.2 adressée aux greffiers.
+
+La première composante ne peut indiquer que le sexe, les Actes de naissance ne mentionnant pas la race ou la religion. Pour les répertoires établis par les Directions régionales de la France métropolitaine, c’est à dire pour les personnes nées en France, aucune instruction ou note de service de la Démographie et du SNS ne prescrira une codification raciale ou religieuse pour la première composante. Il sera même signalé plusieurs fois que ce numéro d’identification doit être toujours le même pendant toute la vie de l’individu.
+
+Cas particulier des personnes nées de 1851 à 1880, âgées en 1941 de 60 à 90 ans.
+
+Les relevés sur les Actes de naissance n’étant effectués que à partir de l"année 1881, ces personnes ne seront identifiées que lorsque les renseignements nécessaires seront relevés sur le premier document (bulletin de recensement, par exemple) qui parviendra au service de la Démographie. Il est précisé que ce procédé est moins sûr parce qu’il n’utilise pas les Actes authentiques et il est également bien plus lent.
+
+Il est clair que ces deux instructions ont été rédigées de manie très précise et détaillée pour pouvoir être appliquées.
+
+Il est clair que l’objectif militaire était prioritaire puisque l’identification des personnes âgées de plus de 60 ans n’a pas été traitée en urgence. Il est clair que ce répertoire d’identification n’a pas été établi pour la France et l’Algérie en application de la législation antisémite de Vichy !
+
+
+
+
+
+Les instructions complémentaires du 15 avril 1941 au 21 mai 1942
+
+
+Après les instructions du 11 avril 1941, d’autres vont se succéder à leur lecture, on comprend vite que les prescriptions concernant le sexe et le statut sont floues et le code varie d’une instruction à l’autre. À diverses reprises, il est rappelé que le numéro d’identification doit être invariable pendant toute la vie de l’individu, alors qu’il peut changer de statut.
+
+Une note de service très courte N° 715 : 02 du 15 avril 1941 signée Malval [81] indique que pour les personnes nées en Algérie, le chiffre indiquant le sexe sera 1 ou 2 pour les Français d’origine ou naturalisés, 3 ou 4 pour les indigènes Musulmans, 5 ou 6 pour les Juifs indigènes d’Algérie." Une autre note de service N°1010 / 02 du 27 mai 1941 contredit la précédente et rappelle de composer le numéro d’identification selon les principes de l’instruction 704 du 11 avril 1941qui prescrit sans ambiguïté que la première composante représente uniquement le sexe par 1 ou 2. Cette note de service se termine par l’exemple du numéro d’identification de Mohamed ben Tahar qui commence par sexe 1 et non par le chiffre 3 qui aurait dû le désigner comme indigène musulman si le code statut devait être réellement utilisé [82].
+
+Une notice sur le numéro d’identification N° 4343-0/2 du 6 Novembre 1941, signée Cucherat et à cette date émanant du SNS modifie encore le code, alors que le répertoire de l’Algérie pour les millions de personnes nées de 1881 à 1940 est terminé depuis le mois de septembre. Cette instruction ajoute les chiffres 7 et 8 pour distinguer les Étrangers et 9 et 0 pour les statuts mal définis.
+
+Six mois plus tard, après quelques autres notices ou notes de service, ce sera la grande instruction de 37 pages qui sera, pour en souligner l’importance, précédée d’une lettre d’envoi de trous pages, où l’on trouve :
+
+"L’établissement et l’utilisation du Répertoire d’Identification régional ont fait l’objet de nombreux documents de circonstance (….) Ce document unique est destiné à remplacer l’ensemble des documents parus sur la question, dont la consultation est assez difficile, et dont les idées d’ensemble sont difficiles à dégager.
+
+INSTRUCTION SUR LE NUMÉRO D’IDENTIFICATION ET SUR LE RÉPERTOIRE D’IDENTIFICATION, N° 306-2/2 du 21 mai 1942, signée R. Carmille.
+
+Cette grande instruction mérite toute notre attention en ce qui concerne la première composante du numéro d’identification parce qu’elle présente une particularité qui semble avoir échappé à tous ceux qui ont écrit à ce sujet jusqu’à présent.
+
+À la page 3 de cette instruction, on trouve le tableau de codification de la première composante :
+
+Citoyens Français : 1 et 2
+
+Sujets de l’Empire Français, Indigènes, à l’exception des Juifs : 3 et 4
+
+Sujets de l’Empire Français, Indigènes juifs : 5 et 6
+
+Étrangers : 7 et 8
+
+Statut mal défini : 9 et 0
+
+À la page 8 de cette même instruction, on trouve exactement le contraire concernant la première composante du numéro d’identification et il ne semble pas que cela été remarqué à ce jour !
+
+
+
+
+
+Haut de la page 8 :
+
+Chapitre VI — Résumé
+
+Le numéro d’identification se présente donc sous la forme suivante :
+
+À cette page 8, il n’est plus question de statut, mais seulement de sexe.
+
+À cela, il faut ajouter que plus de cent millions de cartes mécanographiques ont été imprimées pour la constitution des différents fichiers du recensement des Activités Professionnelles, des démobilisés, des prisonniers de guerre, des chantiers de jeunesse, des demandes de cartes de tabac, etc. Sur le haut de toutes ces cartes, la première composante du N° d’identification était également toujours désignée « Sexe » et non « Sexe et Statut »
+
+Dans la deuxième édition de son livre « La mécanographie dans le Administrations » parue en octobre 1941, René Carmille indique très clairement que la première composante du numéro d’identification désigne le sexe par 1 et 2. Il affirme que ce numéro doit rester le même pendant toute la vie de la personne et il ne fait aucune référence au statut. À l’époque, ce livre a été largement distribué dans tous les Services. et particulièrement dans les Services mécanographiques.
+
+
+
+
+
+LES RÉPERTOIRES D'IDENTIFICATION N'ONT PAS COMPORTÉ DE CODIFICATIONS RACIALES
+
+
+Les instructions ne le prescrivaient pas ! De 1980 à l'an 2000, vingt années de polémiques vaines
+
+L'inspecteur général de l'INSEE Vacher dans son rapport de novembre 1980 concernant les répertoires d'identification établis pendant l'occupation et les rédacteurs du troisième rapport d'activité de la CNIL de 1981-1982 ont estimé que les instructions concernant les discriminations raciales étaient parfois incohérentes et que de fortes présomptions permettaient de penser qu'elles n'avaient pas été appliquées "pour manque de fiabilité technique". D'autres, comme les rédacteurs du rapport rendu public par l'INSEE en septembre 1998 ont affirmé (affirmations relayées par toute la presse quotidienne de Paris et de province) que, conformément aux instructions, "les codifications raciales 3,4, et 5, 6 distinguant les Musulmans et les Juifs avaient bien été utilisées dans les répertoires d'identification". Ces deux thèses fort différentes sont toutes les deux non conformes à la réalité historique. Conformément aux instructions, la première composante du numéro d'identification n'a signifié que le sexe par 1 et 2 Pour parvenir à cette conclusion et porter un jugement correct et sans anachronisme sur l'histoire des répertoires d'identification des personnes de l'Algérie en 1941 et 1942, il est indispensable de consulter les publications de la SGF relatives aux recensements de la population de l'Algérie de la Tunisie et du Maroc sous la Troisième République, de connaître l'historique de l'État-civil en Algérie de 1834 à 1941, de consulter les lettres de 1945 et 1946 de Henri Braconnot (X 1919 Sp) qui a dirigé la direction régionale d'Alger de mars 1941 à septembre 1946, en qualité d'administrateur de la Démographie, puis du SNS et ensuite, à partir de décembre 1942, en qualité de lieutenant-colonel lorsque ce Service a été réquisitionné par les autorités militaires de la France Libre jusqu'à septembre 1946..
+
+
+
+
+
+Les recensements de population de l 'Algérie par la SGF
+
+
+Depuis 1881 la SGF effectuait pour la France et l'Algérie des recensement quinquennaux de la population, toutes les années dont millésime finissait par 1 et 6. Les résultats faisaient l'objet de publications dans des annuaires statistiques conservés à la bibliothèque de l'INSEE. Le dernier annuaire statistique de la SGF publie un tableau statistique récapitulatif de la population de l'Algérie de 1872 à 1936 [83]. Dans ce tableau sont distingués jusqu'en 1921 les Français d'origine , les Israélites naturalisés par le décret Crémieux et leurs descendants, les sujets Français, Arabes Kabyles, M'zabites , Juifs du M'zab [84]. Lors des recensements de 1926, 1931 et 1936, les israélites indigènes bénéficiaires du décret Crémieux et leurs descendants sont inclus sans aucune distinction dans le total des Français d'origine ou naturalisés, comme dans l'État-civil européen. Les statistiques des naissances distinguent seulement les Européens (Juifs inclus) des indigènes dont l'État-civil est séparé. Dans ce même annuaire, les tableaux de population de la Tunisie et du Maroc distinguent les Français , les Étrangers de plusieurs nationalités, les Musulmans et les Juifs.
+
+Le tableau statistique de la page 268 de cet annuaire signifie que, sous la IIIe République les bulletins de recensement de la population organisés par la SGF devaient comporter une question permettant de distinguer pour l'Algérie, jusqu'en 1921, les Juifs naturalisés par le décret "Crémieux", alors qu'ils n'étaient pas distingués à l'état-civil.européen où ils se trouvaient inscrits.[85] Les tableaux statistiques de la SGF concernant la population de la Tunisie de 1881 à 1936 dénombrent séparément les Français, les Étrangers de plusieurs nationalités, les Musulmans, les Israélites.
+
+
+
+
+
+Petit historique de l'État-civil de l'Algérie
+
+
+- Avant 1870, et depuis 1834, il y avait deux États-civils, l'État-civil européen absolument identique à celui de l'État-civil de France et un État-civil séparé pour les Juifs indigènes. Il n'y avait pas d'État-civil pour les indigènes non Juifs (Arabes, Kabyles, M'zabites, etc.). - A partir du décret du 24 octobre 1870 ,plus connu sous le nom de décret "Crémieux", les indigènes Juifs acquièrent la nationalité française entière politique et civile et, à ce titre, figurent sur l'État-civil avec les citoyens Français et Étrangers sans aucune mention distinctive, ainsi que sur les listes électorales des Français. - A partir de la fin du 19e siècle , on commence à établir dans les grandes villes d'Alger, Oran et Constantine l'État-civil des sujets Français indigènes musulmans séparé de l'État-civil européen, mais établi exactement selon les mêmes règles et modalités. [86] Cet État civil indigène ne sera établi que très progressivement et en 1941, il n'existait pas encore pour toutes les communes de l'Algérie et particulièrement pour "les communes mixtes " et "les Territoires du Sud"[87]. Dans cet État-civil indigène figuraient aussi les Juifs du M'zab, alors au nombre d'environ 1500 à 2000, installés près de l'oasis de Ghardaîa.[88] - L'acte dit loi du 7 octobre 1940 abroge le décret du 24 octobre 1870 et fixe le statut des Juifs indigènes des départements de l'Algérie. [89] Cette abrogation est loin d'avoir été totale. L'article 1 de cette loi supprime les droits politiques des indigènes Juifs et de leurs descendants qui avaient obtenu la pleine citoyenneté française depuis 1870. L'article 2 stipule : "les droits politiques des Juifs indigènes de l'Algérie sont réglés par les textes qui fixent les droits politiques des indigènes musulmans Algériens".
+
+L'article 3 stipule : "En ce qui concerne leurs droits civils, le statut réel et le statut personnel des Juifs indigènes des départements de l'Algérie restent réglés par la loi française". Les articles 4 et 5 stipulent : "Les Juifs indigènes qui auront obtenu la Légion d'honneur à titre militaire, la médaille militaire, la Croix de guerre ou se seront distingués par des services rendus au Pays pourront conserver le statut politique de citoyens Français.". Cela signifie que les Juifs , qui avaient acquis la nationalité française par le décret "Crémieux" , ont perdu leurs droits politiques. Ils ont été éliminés de la fonction publique et des écoles publiques et devaient être rayés des listes électorales.[90] Mais ils ont conservé leur personnalité et leurs droits civils, c'est à dire qu'ils n'ont pas été rayés de l'État-civil européen où ils figuraient sans aucune mention de distinction raciale ou autre. Que prescrivaient les instructions pour la première composante du numéro d'identification ?
+
+Ces instructions prescrivaient que les "sujets Français indigènes juifs d'Algérie" devaient être distingués dans la première composante du numéro d'identification par les chiffres 5 et 6. Comme indiqué ci-dessus, le statut des Juifs indigènes institué en octobre 1940 stipulait par son article 3 que ces Juifs des départements de l'Algérie continuaient à être réglés par la loi française en ce qui concerne leurs droits civils, le statut réel et le statut personnel. Il est donc clair que cette codification de distinction raciale ne les concernait pas. Il faut remarquer également que les articles 4 et 5 de ce statut conservaient à ces Juifs la pleine citoyenneté française lorsqu'ils avaient obtenu des décorations militaires ou qu'ils s'étaient distingués par des services rendus au Pays. Or cette disposition ne figure dans aucune des instructions et c'est normal puisque tous ces Juifs, décorés ou pas, conservaient la citoyenneté française civile. Pourquoi avoir institué cette codification dans les instructions ? Les annuaires de la SGF fournissent la réponse en signalant l'existence dans les Territoires du Sud d'indigènes Juifs du M'zab de la région de Ghardaïa. Or ces Juifs n'avaient pas bénéficié du décret Crémieux et par suite le statut des Juifs d'octobre 1940 ne leur accordait pas la citoyenneté civile française. Il est clair que les instructions prescrivant les codes 5 et 6 s'appliquaient à eux. Comme l'état-civil indigène n'existait pas dans la région de Ghardaïa et que le recensement des Activités Professionnelles de juillet 1941 n'avait pas été étendu aux Territoires du Sud , la direction régionale d'Alger de la Démographie, puis du SNS ne pouvait recevoir aucun document concernant cette population très minoritaire. Ces Juifs indigènes n'ont donc pas figuré en 1941 et 1942 sur les répertoires d'identification, qui, par suite, n'ont pas comporté de codifications raciales. Une dernière confirmation que la première composante du numéro d'identification n'a désigné que le sexe par 1 et 2 est fournie par les deux lettres du lieutenant-colonel Braconnot adressées au directeur général du SNS. [91]
+
+LETTRE N° 21 / 2 / D 23 octobre 1945.
+
+Cette lettre de 4 pages donne un bref compte-rendu de l'histoire du service d'Alger pendant l'occupation qui se termine ainsi : "Comme direction régionale de la Démographie le service a constitué un répertoire d'identification des personnes nées en Algérie, par copie des registres de naissance de l'État-civil de 1880 à 1940. Ce répertoire permet d'attribuer un numéro caractéristique personnel. Ainsi le 1er chiffre caractérise le sexe, les deux autres, l'année de naissance,etc." LETTRE N° 21-174 / R du 28 janvier 1946 de la direction des services du Recrutement et des Statistiques,.direction des Statistiques de l'Algérie. Par cette lettre, le lieutenant-colonel Braconnot donne de plus amples renseignements concernant les répertoires d'identification commencés en 1941. Il confirme que les répertoires ont été établis pour les Européens et les Indigènes par les relevés des registres détat-civil pour les années 1881 à 1940. Pour les indigènes, ces relevés n'ont pu être faits qu'à partir de la date où l'État-civil indigène a commencé à fonctionner. Le nombre d'inscrits en 1946 est évalué approximativement à 8 millions, mais les personnes décédées n'ont pas pu être radiées. A la fin de cette lettre, le lieutenant-colonel Braconnot déclare que, pour la constitution du répertoire, l'Imprimé modèle N°I a été utilisé jusqu'au 18 mai 1945. Cela signifie qu'il s'agit du modèle de la liste d'identification figurant en annexe de l'instruction aux greffiers N° 705 / 02 du 11 avril 1941 où il est prescrit de ne relever que le sexe par M et F.
+
+
+
+
+
+Le mystère des codes 7 et 8 distinguant les Étrangers
+
+
+Après la Libération, Henri Bunle, directeur général du SNS par intérim, prescrit par une instruction du 18 mai 1945 de remplacer dans les répertoires d'identification les codifications 3 à 9 et 0 par 1 et 2. Certains , à tort , ont voulu y voir une preuve ou au moins une forte présomption de l'existence de ces codifications. En réalité , pendant toute l'occupation Henri Bunle n'avait pas eu à intervenir dans l'établissement de ces répertoires et il n'avait pas encore reçu le premier rapport du lieutenant-colonel Braconnot du 23 octobre 1945. Lorsqu'il a eu connaissance des instructions officielles, Henri Bunle a jugé prudent et nécessaire de les modifier, qu'elles aient été appliquées ou non. Ensuite l'affaire se complique et devient même assez mystérieuse, parce que les répertoires d'identification établis par l'INSEE jusqu'au début des années 1970 distinguent les Étrangers par les chiffres 7 et 8, comme cela était prescrit dans l'instruction 306 2 / 2 du 21 mai 1942 ! Dans les archives du SAEF (cote PH 94) sont conservés environ un millier de répertoires (dit fichier SHM ? mais ce n'est peut-être pas lui) établis jusqu'à l'année de naissance 1973. La première composante du numéro d'identification des répertoires concernant les Pays étrangers comme la Suisse, la Belgique, le Portugal, etc. comporte des 1, des 2, des 7 et des 8. Par contre, dans les 166 répertoires de l'Algérie (cote PH 94, carton 124), on ne trouve que des 1 et des 2 avec des noms d'origine française, juive, arabe, espagnole italienne, etc. Ces répertoires de l'Algérie, manifestement anciens, vont de l'année de naissance 1873 à l'année 1973. Malgré de longues et sérieuses recherches, il a été impossible de retrouver à partir de quelle date les chiffres 7 et 8 ont commencé à distinguer les Étrangers ; mais il est très probable que cette date doit se situer un certain temps après la Libération., aux environs de 1947.
+
+
+
+
+
+Les paradoxes stupéfiants de l'histoire du répertoire d'identification des Français
+
+
+Ce répertoire a été créé en avril 1941 par la seule administration instaurée par le Régime de Vichy qui n'a pas été supprimée à la Libération. et qui a été maintenue en 1946 sous le nom de INSEE.
+
+Ce répertoire commencé en 1941 est toujours continué de nos jours par l'INSEE qui n'y a pas apporté de modifications structurelles notables concernant la composition du numéro.
+
+Le répertoire d'identification de l'Algérie a été commencé par une administration civile de l"État Français qui en décembre 1942 s'est immédiatement transformée en administration militaire de la France Libre !
+
+En septembre 1998, toute la presse quotidienne de Paris et de Province a publié, sous de gros titres, des articles affirmant que pendant l'occupation ce répertoire comportait des codifications de discrimination raciale distinguant les Juifs, alors que cela n'est pas vrai.
+
+Il est admis dans à peu près tous les milieux cultivés que le Gouvernement de Vichy avait abrogé la totalité du décret "Crémieux" qui en 1870 avait accordé la pleine citoyenneté Française aux Indigènes Juifs d'Algérie, alors que la lecture du JO à ce sujet montre clairement que cela n'est pas exact. Il a été démontré ci-dessus les conséquences importantes qui en découlaient sur le contenu du répertoire d'identification de l'Algérie.
+
+Ce numéro d'identification à 13 chiffres est communément appelé "numéro de la Sécurité sociale" (et souvent de la Sécu) alors que, s'il est principalement utilisé par cette administration, il est établi par l'INSEE, une direction générale du ministère de l'Économie et des Finances.
+
+L'inventeur de ce numéro et directeur de l'administration qui a établi les premiers répertoires est le contrôleur général de l'armée René Carmille, directeur du Service de la Démographie, puis du Service National des Statistiques.
+
+
+
+Le 3 février 1944, il fut arrêté par la Gestapo de Lyon(équipe Barbie) en qualité de "grand ennemi de l'Armée allemande ,ayant entretenu des relations avec Londres et aidé des groupes de terroristes". Le 2 juillet 1944, René Carmille fut transféré, avec son chef de cabinet Raymond Jaouen, de Compiègne à Dachau, par le convoi qui, de tous ceux partis de France, a subi les conditions de transport les plus inhumaines [92]. En mai 1995, était inaugurée au ministère de la Défense Nationale une plaque à la mémoire de René Carmille, en présence du ministre de la Défense Nationale, de tous les contrôleurs généraux de l'Armée et de tous les directeurs généraux de l'INSEE qui s'étaient succédé depuis 1946 jusqu'au directeur général en fonction à cette date, Paul Champsaur. En septembre 1998, des articles parus à la une de nombreux journaux de la presse quotidienne de Paris et de province affirmaient le même jour que les répertoires des personnes de l'Algérie avaient comporté en 1941 et 1942 des codifications de discrimination raciale. A une quinzaine d'années d'intervalle, mon père et Jean Rostand m'ont dit :
+
+"Les faits sont têtus".
+
+
+
+
+
+L'EXPLOITATION DU RECENSEMENT POLICIER DES JUIFS DE JUIN 1941 EN ZONE NON OCCUPÉE
+
+
+Le 4 mars 1941, Henri Bunle , directeur de la Statistique Générale de la France écrit à monsieur le Délégué Général du ministre de l'Intérieur [93] pour proposer que la SGF procède à une centralisation des renseignements rassemblés par les Préfets grâce au recensement des Juifs ordonné fin septembre 1940 par les Autorités occupantes en zone occupée. Il termine sa lettre par cette phrase : "Je vous remercie très vivement à l'avance pour l'aide précieuse que vous voudrez bien m'apporter"
+
+Le 12 mars 1941, le délégué du ministre de l'Intérieur répond à Henri Bunle qu'il le prie d'attendre une réponse de sa part pour donner suite à cette initiative qui touche à la politique générale . Le 7 avril 1941, n'ayant pas d'autre réponse, Henri Bunle, en sa qualité de directeur de la SGF écrit à Xavier Vallat , Commissaire Général aux Questions Juives pour lui renouveler l'offre de centraliser les informations recueillies sur les Juifs de la zone occupée.[94] Le 18 juin 1941, René Carmille, directeur de la Démographie écrit au Commissaire aux Questions Juives [95] pour lui signaler que la loi du 14 novembre 1940 a chargé le Service de la Démographie de toutes les opérations statistiques de toute nature intéressant la population de la France.Il informe ensuite le Commissaire du CGQJ que son Service a été chargé d'organiser un recensement comportant inventaire des activités professionnelles des personnes âgées de 14 à 65 ans Il se tient à la disposition des Services du CGQJ pour étudier un formulaire qui devrait permettre au Service de la Démographie de réunir tous les renseignements utiles sur les Juifs. Il termine sa lettre e proposant d'examiner les conditions de la collaboration qu'il pourrait sembler avantageux d'établir entre la Démographie et le CGQJ. Le 3 juillet 1941, René Carmille écrit au directeur général des Contributions directes pour l'informer que contrairement à ce qu'il avait indiqué dans sa lettre du 18 juin, "le recensement des biens dépasse sa compétence". Dans un premier temps cette offre, comme celle de la SGF, ne sera pas acceptée. Elle sera refusée le 21 juin , puis le 11 juillet, car Xavier Vallat tient à ce que cette exploitation d'environ 111 915 bulletins soit faite par les Services du ministère de l'Intérieur. Comme ces Services ne parviennent pas à les exploiter, Xavier Vallat accepte en janvier 1942 l'offre de la Démographie, devenue en octobre 1941 le SNS par absorption de la SGF. Dans un premier temps environ 90 000 bulletins seront acheminés à la direction régionale de Clermont-Ferrand du SNS et 21 000 à la direction régionale de Limoges. Un peu plus tard, toutes ces fiches seront rassemblées à Clermont-Ferrand. L'exploitation commença en mars 1942 et elle était à peine terminée en août 1944, lors de la Libération de Clermont-Ferrand. De plus, cette exploitation avait consisté à produire une énorme quantité d'états mécanographiques exclusivement numériques, contenant beaucoup de chiffres 1 ou 2, des états qui n'avaient aucune utilité ni policière ni statistique. Quelques années après la Libération, l'administrateur de l'INSEE Michel Lévy les a confiés au Centre de documentation juive contemporaine. Il est certain que ce recensement de juifs a été saboté sur instruction personnelle et secrète de René Carmille comme l'atteste le témoignage de l'inspecteur général de l'INSEE Georges Laurent, écrit, signé et daté du 27 juillet 1978. "Ayant été chargé de l'identification de ces documents, je peux préciser que les consignes verbales reçues de la DG (par Caffot venu spécialement à cet effet) étaient de retarder le plus possible l'exploitation, le Commissariat étant démuni de toute information sérieuse aussi longtemps que le SNS conservait les bulletins".
+
+En 1979, l'inspecteur général Neyret, alors directeur régional de l'INSEE à Clermont-Ferrand fut chargé par le directeur général de l'INSEE de recueillir les témoignages écrits de tous les fonctionnaires en activité pendant l'occupation qui avaient participé à cette exploitation. Tous ces témoignages furent concordants et permirent à Guy Veyret de conclure son rapport d'enquête : "Il y a eu à la direction régionale de Clermont-Ferrand un travail d'exploitation mécanographique sur les bulletins de recensement des Juifs (relatifs à l'ensemble de la zone Sud)) pour le compte du Gouvernement de Vichy. Mais ce travail a été volontairement saboté et a été rendu au Gouvernement quelques jours seulement avant la Libération , sous une forme inoffensive puisque uniquement numérique".
+
+Je juge utile de signaler que j'ai déjà publié tout cela dans ma brochure de février 1995 "Contribution à l'histoire des Services Statistiques Français" que l'on peut consulter dans les bibliothèques de l'INSEE et de l'INED.
+
+Après cet exposé des faits, le travail de l'historien est loin d'être terminé. Il s'agit de prendre en compte que Henri Bunle demandait à être chargé de l'exploitation de fiches concernant les Juifs de la zone occupée, fiches qui avaient déjà été collectées à partir de septembre 1940, alors que René Carmille demandait de participer à la préparation d'un recensement des Juifs de la zone non occupée de juin 1941. Il s'agit de comprendre pourquoi Henri Bunle tenait autant à ce que son Service soit chargé d'exploiter un recensement des Juifs de la zone occupée,alors que cela ne lui était pas demandé et surtout que ce n'était plus dans ses attributions depuis l'acte dit loi du 11 octobre 1940 créant le Service de la Démographie. Il s'agit de comprendre pourquoi René Carmille a réclamé avec insistance de participer à ce recensement des Juifs de la Zone non occupée pour ensuite donner des instructions d'en saboter l'exploitation, après avoir fait miroiter des résultats rapides et efficaces, grâce à son important matériel mécanographique. Les motivations qui ont amené deux directeurs du Ministère des Finances à demander avec insistance à participer à des recensements de Juifs furent en réalité très différentes.
+
+
+
+
+
+Motivation de Henri Bunle
+
+
+Depuis plus d'un siècle, le petit Service d'environ 120 à 140 personnes de la SGF était chargé d'organiser et d'exploiter les recensements généraux de population de France et d'Algérie, toutes les années finissant par 1 et 6. En 1941, la SGF n'avait pas encore terminé la publication des résultats détaillés du recensement de 1936. Ces résultats étaient tellement obsolètes qu'ils n'intéressaient ni le Gouvernement de Vichy, ni les Autorités d'occupation selon des documents archivés au SAEF. Les activités concernant la démographie représentaient environ les trois quarts des activités totales de la SGF. Le quart restant concernait essentiellement des études économiques et de Conjoncture qui étaient effectuées depuis 1936 (à partir du départ à la retraite du directeur de la SGF, Michel Huber) de manière quasi indépendante par le statisticien et économiste Alfred Sauvy En septembre 1940, Henri Bunle qui a fait toute sa carrière à la SGF en est enfin nommé directeur à environ cinq ans de sa mise à la retraite. Deux mois après sa nomination, il apprend par la lecture du JO la création d'un nouveau Service dépendant du même ministère doté d'un budget plus de vingt fois supérieur au sien et qui a pour attributions l'essentiel de celles qui étaient les siennes. En février 1941, il apprend que René Carmille a obtenu d'être aidé, comme chargé de mission, par le retraité Michel Huber, son ancien directeur ! C'est l'existence même de la SGF qui est en cause et on peut comprendre qu'il se soit affolé et qu'il se soit senti investi d'une mission de défendre pas tellement sa situation personnelle, mais celle d'un personnel peu nombreux avec lequel il avait noué des relations affectives. Cela expliquerait qu'il ait jugé que ce serait "une aide précieuse" de pouvoir exploiter un recensement de population, même s'il s'agissait d'un recensement de Juifs. Cela expliquerait qu'il ait sollicité par plusieurs lettres (rédigées en allemand par le statisticien de la SGF Paul Gasc qui lui servait d'interprète) des entretiens avec le "Kriegsverwaltungsrat Dr. K. Werner [96] . Il était le chef de la Section Économique du Commandement en Chef en France et son approbation était nécessaire pour l'organisation par les Autorités françaises des recensements de population.. Il est également important de signaler que ces démarches de Bunle auprès des Autorités françaises et allemandes ont été effectuées sans la moindre implication d'Alfred Sauvy Il faut dire aussi que René Carmille en a certainement été informé, parce que lorsqu'il est devenu le supérieur hiérarchique de ces deux statisticiens, il a laissé à Alfred Sauvy une large indépendance dans ses activité d'études économiques et de conjoncture et aussi pour ses relations avec des organismes extérieurs au SNS. Par contre, le comportement de René Carmille à l'égard de Henri Bunle devenu chef d'une des trois directions du SNS a été fort différent et Henri Bunle n'a plus correspondu directement avec des organismes extérieurs Français ou Allemands.
+
+
+
+
+
+Motivation de René Carmille
+
+
+La motivation de René Carmille est évidemment fort différente. En juin 1941, lorsqu'il écrit cette lettre au Commissariat aux Questions Juives, il a, comme expliqué plus haut, réussi à sauvegarder l'essentiel du Service du Recrutement, à commencer les travaux préparatoires en vue d'une éventuelle mobilisation clandestine et il a commencé à construire le Service Statistique civil qu'il souhaitait pour la France depuis plusieurs années et comme nous l'avons dit plus haut il avait prévu depuis plusieurs mois d'absorber la SGF Dans ces conditions, il lui fallait très vite neutraliser les démarches de Bunle à la fois auprès des Autorités Françaises et auprès des Autorités Allemandes, afin que son Service resta le seul à traiter de tous les recensements démographiques. En juin 1941, il avait commencé l'organisation du recensement des Activités Professionnelles et nous avons montré plus haut qu'il était une pièce maîtresse de l'opération mobilisation clandestine. Le major Werner pouvait opposer son veto à cette entreprise et on sait que René Carmille n'a pas voulu, malgré des pressions, étendre ce recensement à la zone occupée pour ne pas fournir aux Allemands d'informations inutiles pour cette opération. Pour juger des lettre et des démarches, l'historien doit reconstituer le contexte de l'époque qu'il étudie..
+
+
+
+
+
+LE RECENSEMENT DES ACTIVITÉS PROFESSIONNELLES DE JUILLET 1941
+
+
+Depuis plus de cent ans, la SGF organisait et exploitait un recensement de la population de la France et de l'Algérie. Pour l'Algérie, les statistiques qu'elle publiait, distinguaient les indigènes juifs, les musulmans et d'autres ethnies. Au lieu d'un recensement général de la population, René Carmille fit effectuer le 17 juillet 1941, un recensement dit "des Activités professionnelles" (AP 41) qui était conçu spécialement, comme indiqué plus haut, pour permettre la préparation d'une éventuelle mobilisation clandestine. Ce recensement fut limité aux personnes âgées de 14 à 65 ans et surtout René Carmille refusa, malgré des pressions de Vichy et des Autorités d'occupation, de l'étendre à la zone occupée et à la zone interdite où une mobilisation clandestine était irréalisable. Par contre, il fut étendu à l'Algérie grâce à la création à Alger, en février 1941, d'une direction régionale de la Démographie. Il faut savoir et souligner que, après avoir utilisé les cartes AP 41 à des fins militaires et conservé des informations non très rapidement obsolètes comme la situation de famille, le permis de conduire, le degré d'instruction, la profession, le nombre d'enfants, René Carmille ne voulut pas faire procéder à la mise à jour de la cartothèque mécanographique AP 41. Ainsi, en 1943, pour les juifs et les requis au STO non volontaires, les adresses inscrites en juillet 1941 étaient certainement presque toutes périmées. Pour les recherches policières, il manquait l'essentiel.
+
+Dans plusieurs publications, Michel Louis Lévy, administrateur hors classe de l'INSEE, détaché comme chef de Service à l'Institut National d'Études Démographiques (INED) a expliqué la différence entre un recensement de population, (l'AP 41 en était un) et les fichiers policiers, comme ceux établis par Monsieur Tulard à la Préfecture de Police du département de la Seine. Dans le bulletin du recensement AP 41, fut inscrite une question 11 : "Êtes- vous juif" ? Cette question pose un problème de conscience. Il est certain que cette question a dû faciliter et accélérer l'accord nécessaire des Autorités d'occupation. Or, ce recensement de population était indispensable pour la préparation de la mobilisation clandestine. En obtenant de ne pas l'étendre en zone occupée, René Carmille a pensé supprimer le risque de fournir aux Allemands des informations de nature raciste et il suffisait de ne pas exploiter cette question pour la rendre inoffensive. Les instructions du Service Technique prescrivaient, en cas de non réponse à une question posée, de laisser un blanc dans les colonnes concernées de la carte perforée mécanographique. En réalité, lorsqu'il n'y avait pas de réponses à la question 11, aucune recherche n'a été entreprise, même si certains ont voulu, plus ou moins, le faire croire. Il a parfois été affirmé que cette question 11 aurait été exploitée dans quelques cas, en se basant sur des instructions, mais rien ne prouve qu'elles ont été appliquées : Les directeurs régionaux et le directeur de l'Établissement central à Lyon M. Sanson recevaient des instructions officielles, montrées éventuellement aux commissions allemandes de contrôle, alors que, pendant ce temps, les services et ateliers effectuaient certains travaux clandestins sur instructions orales? Ce fut le cas pour moi lorsque j'étais en 1943 et au début de 1944, chef de l'atelier mécanographique de l'Établissement central à Lyon et ce fut le cas pour d'autres, dans les directions régionales. En 1943, mon père m'a envoyé en mission à Toulouse donner des instructions à l'attaché Latappi sans en informer le directeur et le chef du Service mécanographique. Ce dernier devait six ans plus tard être nommé inspecteur général de l'INSEE.
+
+
+
+
+
+LES CHANTIERS DE LA JEUNESSE ET L'AP 41
+
+
+Le cas concernant les chantiers de la jeunesse pose problème En juillet 1943 le Gouvernement de Vichy a décidé de ne plus appeler les Juifs aux chantiers de jeunesse. En conséquence, le Commissariat des chantiers a demandé au SNS de séparer les Juifs sur les états nominatifs des jeunes à appeler aux chantiers. Dans les archives du SAEF, on trouve une instruction de la IIe direction demandant de séparer les juifs dans les listes des jeunes appelés dans les chantiers de jeunesse, en utilisant l'AP 41 non mis à jour. C'.est une Note N° 680 2/2 du 28 octobre 1942.adressée pour exécution au Service Technique. En réponse, la Note N° 3778/T2 du Service Technique signale que ces listes ne seront pas prêtes avant la deuxième quinzaine de décembre 1942. Il faut savoir que les appels aux chantiers de jeunesse avaient lieu les 1ers de mars, avril, juillet et novembre de chaque année. Par suite, ces listes avec les Juifs à part (du moins ceux qui avaient répondu affirmativement à la question 11) ne pouvaient concerner que les jeunes arrivant dans les camps à partir du début mars 1943. Il est bien connu que, à cette date, les chantiers, sans disparaître officiellement, se sont vidés, jeunes et encadrement, les uns partant aux maquis, d'autres emmenés de force au STO ; tous les autres, ne voulant aller ni aux maquis ni au STO, se sont évanouis dans la nature. Ces listes dont rien ne prouve qu'elles ont été établies, n'ont certainement pas pu être utilisées pour éliminer les Juifs de listes d'appel qui n'ont pas eu l'occasion de servir. Il convient d'insister sur le fait que, depuis juillet 1941, ces jeunes juifs avaient dû pour la plupart, changer d'adresse et bien malheureusement pour beaucoup d'entre eux. Un historien ne doit pas considérer isolément un document d'archives, mais rassembler ceux se rapportant à un même sujet et faire des contrôles de vraisemblance entre eux et dans le contexte de l'époque.
+
+
+
+
+
+=LE SERVICE NATIONAL DES STATISTIQUES ET LE SERVICE DU TRAVAIL OBLIGATOIRE=[97]
+
+
+L'histoire du Service du Travail Obligatoire (STO) est peu et mal connue, même parfois des historiens spécialisés dans la période de Vichy. Les habitants des départements du Nord et du Pas-de-Calais ont subi dès juillet 1940 un régime d'occupation particulièrement sévère sous administration directe du gouvernement militaire allemand de Bruxelles. Dés juillet 1940, furent organisées des déportations de travailleurs vers l'Allemagne. Avant l'instauration du Commissariat Général au STO, dans cette région"interdite" du Nord, des rafles étaient organisées dans les usines, à la sortie des écoles, aux arrêts des tramways, etc. Lorsque, en mars 1943, le Gouvernement de Vichy créa les Services du Commissariat Général au STO, avec des directions régionales et des services départementaux, les Autorités d'occupation créèrent des services allemands de recrutement (Werbestellen) dans les chefs-lieux des départements et des arrondissements de toute la France. Ces services allemands fixaient aux directeurs des administrations publiques et aux directeurs d'établissements privés des quotas de jeunes devant partir au STO. Dans certaines directions régionales du SNS cela occasionna à la Libération des conflits entre le directeur et son personnel [98] Le Commissariat général au STO commença à créer dans ses directions régionales un fichier numérique régional des entreprises et des professions.Il demanda au directeur général du SNS que du personnel et du matériel mécanographique des directions régionales du SNS soient prêtés aux directions régionales du Commissariat au STO. Il demanda aussi que le SNS exploite lui-même les bulletins nominatifs du recensement spécial STO. Par lettre N° 132-2 / 0 du 23 mars 1943, signée Carmille, cette demande concernant l'exploitation nominative des bulletins STO était acceptée, en principe ; mais il était précisé que l'exploitation des enquêtes agricoles étaient jugées prioritaires par le Gouvernement et que l'exploitation nominative demandée nécessiterait l'acquisition d'un important matériel mécanographique supplémentaire. René Carmille savait que cette acquisition n'était pas réalisable. Par lettre N° 138 2 / 0 du 6 avril 1943, signée Carmille, le directeur général du SNS refusa tout net de prêter personnel et matériel, en indiquant toutefois que ses directions régionales pourraient effectuer des travaux pour le STO "mais qui seraient exécutés dans les locaux du Service National des Statistiques sous la seule responsabilité de ses directeurs régionaux". Finalement, les directions régionales du SNS commencèrent l'exploitation des bulletins nominatifs du recensement organisé par le Commissariat Général au STO. Les rapports d'inspection de toutes les directions régionales établis en 1943 [99] apportent la preuve formelle, que , sur instruction du directeur général, il a d'abord été procédé à la recherche et à l'inscription du numéro d'identification de la personne, identification non indispensable pour cette exploitation. En effet, il avait été décidé que, seul, le recto des bulletins serait exploité mécanographiquement, de telle sorte qu'une carte-adresse n'était pas nécessaire. Ces rapports d'inspection des directions régionales de 1943 prouvent que l'exploitation STO a été retardée par cette 'inscription non nécessaire du numéro d'identification. Ces rapports font au contraire état de l'avancement de travaux commencés en 1941 ou 1942 : répertoires d'identification, enquêtes agricoles, statistiques d'état-civil, etc. dont la plupart ont été continués par l'INSEE. Les documents des Archives départementales et des Archives Nationales permettent d'affirmer que les services départementaux du STO ont été contraints de traiter eux-mêmes le deuxième exemplaire du bulletin STO. Pour le STO le directeur général du SNS a procédé comme pour les juifs, il n'a pas refusé ce qui lui était demandé, mais il a, sous le prétexte de l'identification, fait tellement traîner les travaux acceptés que Vichy a créé ses propres services pour ses besoins non satisfaits par le SNS. Les rapports de 1945 d'inspection des directions régionales montrent que cette exploitation des bulletins STO de 1943 a été continuée lentement dans certaines directions régionales, sauf à Paris où l'exploitation s'est arrêtée avant le stade de la perforation des cartes ! [100] Comme plusieurs direction régionales ont peu après la Libération effectué des travaux pour la nouvelle Armée française, il est assez probable que leur cartothèque STO , pas tellement obsolète, a pu être utilisée en combinaison avec d'autres avec d'autres. Il est certain que, à partir des bulletins STO, le SNS n'a établi et livré aux services du ministère de l'Intérieur pendant l'occupation aucune liste nominative de personnes à enrôler au STO. Les chercheurs et thésards qui, actuellement, trouvent au SAEF un rapport d'inspection signalant que telle direction régionale a, par exemple, perforé 35 000 cartes STO en janvier 1944, risquent de publier que au début 1944, "le SNS travaillait pour le STO". Ils n'ont pas de connaissances suffisantes pour réaliser que l'exploitation n'avait pas dépassé ce stade et ils ne font pas le rapprochement avec les documents qui signalent les travaux effectués peu après la Libération. avec cette documentation mécanographique. Leur jugement est complètement faussé, généralement de bonne foi.
+
+
+
+
+
+L'ACTE DIT LOI INSTITUANT L'OBLIGATION DE DECLARATION DE CHANGEMENT DE DOMICILE
+
+
+Depuis 1945, ce texte de "l'État français" improprement appelé législatif puisque le Parlement avait été supprimé, est considéré comme ayant été promulgué à la demande de René Carmille pour pouvoir tenir à jour les adresses contenues dans les fichiers individuels de la population [101] . Cette "loi" N° 2326 datée du 30 mai 1941 est signée par le chef de l'État, par le ministre de la justice Joseph Barthélemy, par le ministre à l'Intérieur Darlan et par le ministre de l'Économie et des Finances Yves Bouthillier. Elle n'a pas été rapidement promulguée au JO et n'a donc pas été appliquée. Par une lettre du ministre de l'Économie et des Finances au ministre de l'Intérieur, datée du 25 novembre 1941, signée Carmille, il est demandé la mise en application de cette loi de mai 1941 pour le premier janvier 1942, à condition que les imprimés nécessaires aient été mis en place dans toutes les communes. Dans la lettre N° 20-/ 2-1 du 25 janvier 1942 du directeur général du SNS, au ministre de l'Économie et des Finances, signée Carmille [102] , on trouve :, "Aux termes d'un télégramme reçu ce jour du Ministre de l'Intérieur, les Autorités Allemandes exigent que la loi du 30 mai 1941 relative aux déclarations de changement de domicile soit publiée avant le premier mars. Au cas où cette loi ne serait pas parue à cette date au Journal Officiel , elles menacent d'incorporer ce texte dans les ordonnances des troupes d'occupation". D'après un renseignement donné par le sous-directeur de la Police du Territoire et des Étrangers au ministère de l'Intérieur, les conditions de déclaration des changements de domicile seraient rendues beaucoup plus sévères si les Autorités d'occupation prenaient à leur compte la publication de l'Ordonnance et il en résulterait de tels inconvénients pour les autorités de police que M. Rivalland, Secrétaire Général pour la Police insiste pour que la loi du 30 mai 1941 soit publiée le 28 février 1942". Pour qu'elle ne soit pas remplacée par une Ordonnance allemande, cette loi a enfin été publiée au JO du 28 février 1942, page 142, mais les premières déclaration de changement de domicile ont pu être faites seulement à partir de mai 1942, soit un an après la signature de la loi. En réalité plusieurs ministres du Gouvernement ne souhaitaient pas cette loi peu populaire pour des raisons politiques. En mai 1942, le fichier militaire secret était terminé et René Carmille voulait mettre à jour les adresses des résidences et non des domiciles, particulièrement différentes dans une période où les réfugiés étaient très nombreux. Il utilisa, entre autres, pour cette mise à jour, le fichier des demandes de cartes de tabac où figurait la résidences lorsqu'elle était distincte du domicile.
+
+Il semble que René Carmille a eu connaissance que les Autorités d'occupation voulaient imposer la déclaration de changement de résidence et s'il la voulait pour son fichier militaire, il ne la voulait pas pour les Allemands. Cela aurait surtout eu des inconvénients pour les membres des réseaux de Résistance et aurait compliqué la réalisation des 20 000 "vraies fausses identités" dont René Carmille a pourvu de nombreux réseaux français et britanniques par l'intermédiaire du réseau Marco Polo. Il semble aussi que les Allemands voulaient imposer des sanctions pénales aux Étrangers qui ne rempliraient pas cette déclaration, alors que la loi française a seulement prévu une peine d'amende de 16 à 1000 francs.
+
+
+
+
+
+L'ECOLE D'APPLICATION DU SERVICE NATIONAL DES STATISTIQUES
+
+
+René Carmille pose les fondations de l’ENSAE
+
+Ce titre peut paraître discutable et quelque peu exagéré pour les personnes qui ne connaissent pas les différents textes réglementaires concernant l’Histoire de cette Ecole et aussi pour les personnes qui ne réalisent pas toujours qu’un grand chêne, par exemple, n’a pu le devenir sans l’existence et la germination d’une petite graine. Pour mieux appréhender l’Histoire de l’Ecole, il convient de décrire, dans ses très grandes lignes, l’évolution de l’enseignement de la Statistique,en France,depuis ses débuts jusqu’à la période présente.
+
+
+
+
+
+Un peu d'histoire
+
+
+Dans un rapport officiel établi en 1890 par une commission du Conseil supérieur de la Statistique, on peut lire ceci: "Il n’ y avait pas de véritable Ecole et le plus souvent sauf quelques brillantes exceptions, le recrutement des bureaux statistiques s’opérait en dehors de toute préparation et de toutes garanties spéciales, par les soins du hasard et pour ainsi dire, à tâtons ! L’essentiel est dit pour cette époque.
+
+
+
+
+
+L’INSTITUT DE STATISTIQUE DE L’UNIVERSITE DE PARIS
+
+
+En 1922, sur l’initiative d’Emile BOREL (Mathématicien), de Clément Colson (Professeur à l’Ecole Polytechnique)) et de Lucien March (Directeur de la Statistique de la France de 1896 à 1920) fût créé, près de l’Université de PARIS, un Institut de Statistique. L’enseignement a un caractère théorique et pratique, comportant des cours, des conférences, des travaux pratiques de laboratoire. Cet Institut délivre des certificats d’aptitude et des diplômes de statisticien. Cette création représentait de nets progrès pour l’enseignement de la statistique, mais n’assurait pas un véritable enseignement professionnel. Plus grave encore, les différents Bureaux et Services Statistiques (qui n’y étaient pas obligés) recrutaient assez rarement des Certifiés ou des Diplômés de cet Institut! En Allemagne, il avait été créé, en 1862, une véritable Ecole uniquement chargée de la formation des statisticiens, le “Statistiches Seminar”. Dès cette époque, les Services Statistiques allemands étaient fortement centralisés et occupaient un personnel nombreux: en 1930, l’Office central de statistique comprenait 2 360 Agents permanents avec un budget annuel de 13 millions de Mark (soit, à l’ époque 66 millions de (Francs). La Statistique Générale de la France ne disposait que de 109 personnes avec un budget annuel de 3,2 millions de Francs, soit 22 fois moins de personnel et 20 fois moins d’argent. Les “Statisticiens” de la SGF étaient trop peu nombreux (onze seulement en 1940) pour songer à créer une Ecole spécifique. Pour être nommé “Statisticien adjoint” à la SGF, il faut réussir un concours très sélectif d’un niveau mathématique élevé [103] . La formation professionnelle se fait ensuite dans le Service, sur le tas, en quelque sorte. Par contre, dans les Services statistiques des autres Administrations (Guerre, Justice, Santé, Enseignement, Agriculture, etc.), il s’agit [104] (....) d’un personnel de fortune, à l’Instruction Publique: deux rescapés heureux d’avoir fini la guerre de 1914-18 et du même coup tout travail.Inutile de compter sur les totaux des états, ils sont tous erronés....à moins que l’erreur ne porte sur les chiffres élémentaires(....).
+
+C’est du Sauvy, donc, peut- être, quelque peu imagé. En 1940, il est certain que l’appareil statistique français est constitué d’une vingtaine de statisticiens, des savants, analystes mathématiques et théoriciens de haut niveau, ayant même une réputation internationale; mais, dans les différents Ministères et dans les syndicats patronaux on trouve plusieurs centaines d’Agents d’assez faible niveau professionnel en statistique et même culturel. Au cours de la séance du 2 janvier 1942 de la Société de statistique de Paris, l’Inspecteur général de I e classe du SNS Henri Bunle a fait une communication écrite où l’on peut lire ceci : “On sait que, malgré les efforts conjugués de l’Institut de Statistique de Paris, de la Statistique Générale de la France et des dirigeants de la Société de Statistique, la formation de statisticiens instruits et éprouvés a été malheureusement négligée en notre Pays. de ce coté, presque tout reste à faire.”
+
+
+
+
+
+CREATION DE L'ECOLE D'APPLICATION DU SNS
+
+
+Cadre législatif et réglementaire Le Service de la Démographie, créé par l’acte dit loi du 14 novembre 1940, recrute, en quelques semaines, 350 cadres qui formeront le corps des administrateurs, et, peu à peu, seront recrutés 400 commis et commis principaux. La plupart seront d’anciens Officiers et Sous- Officiers d’active ou de réserve démobilisés. Cela était normal pour un Service prévu pour préparer une mobilisation clandestine et, aussi, du fait que la France ne disposait que de quelques Statisticiens professionnels dont trois ou quatre étaient prisonniers en Allemagne. L’acte dit loi du 11 octobre 1941 crée le Service National des Statistiques en fusionnant la Démographie, la Statistique Générale de la France (y compris sa Sous-direction, l’Institut de Conjoncture). En 1941, la SGF n’a plus en activité que 4 Statisticiens de haut niveau professionnel. René Carmille sait que, à terme, les militaires devront être remplacés par des professionnels de la statistique, ayant des connaissances en statistique, en économie,en économétrie et en mécanographie. Il fera inscrire au Journal Officiel les dispositions suivantes dans les textes législatifs et réglementaires: a- Article 2, alinéa 5 de la loi du 11 octobre 1941: Le Service National des Statistiques est chargé de favoriser l’étude de la science statistique et d’assurer la formation d’un personnel possédant les connaissances scientifiques et techniques nécessaires. b-Article 5 du Décret du 24 octobre 1941: Le Service National des Statistiques assure le fonctionnement d’une Ecole d’Application chargée de former les administrateurs et les attachés du Service en liaison avec l’Institut de Statistique de Paris . Les conditions de fonctionnement de l’Ecole d’Application sont fixées par Arrêté du ministre de l’Economie et des Finances. c- Arrêté du 23 octobre 1942. Ce texte fixe le statut de cette nouvelle Ecole qui est effectivement créée à cette date. La date du 23 octobre 1942 peut être légitimement considérée comme la date de naissance de ce qui deviendra tout naturellement l’ENSAE avec le Décret du 2 novembre 1960. Il faut remarquer que, entre octobre 1941 et octobre 1942, René Carmille a voulu élargir sensiblement le rôle de cette Ecole: avec le Décret de 1941 elle devait seulement former les administrateurs et les attachés du SNS; avec l’Arrêté de 1942, elle est prévue pour recevoir, en plus, des élèves titulaires, des élèves étrangers fonctionnaires, des auditeurs libres. La lecture des deux textes de 1942 et de 1960, dont les différences sont légères, montre clairement que l’Ecole d’Application du SNS était prévue pour avoir, à très peu près, les mêmes caractéristiques que celles de l’ENSAE. Ces caractéristiques communes sont:
+
+1° Le statut et la structure d’une Grande Ecole nationale française fonctionnant en externat.
+
+2° des liens étroits avec le SNS et ensuite avec l’INSEE:
+
+-le Directeur de l’Ecole est nommé par le Directeur Général du SNS, puis de l’INSEE, -le personnel administratif de l’Ecole fait partie du personnel du SNS, puis de l’INSEE, -les locaux de l’Ecole font partie de l’ensemble immobilier du SNS, puis de l’INSEE. 3° La vocation première de l’Ecole a toujours été, et l’est encore, de former les administrateurs et les attachés du SNS, puis de l’INSEE. 4° L’ouverture de l’Ecole à des élèves titulaires, à des auditeurs libres, à des élèves étrangers fonctionnaires a bien été prévue dès 1942, mais n’a pu être réalisée que quelques années plus tard, cette ouverture allant progressivement en s’élargissant. La premièe promotion de 1942-1943 n'a comporté que quatre élèves, tous issus de l'École Polytechnique, dont l'un vit toujours. Le cheminement parcouru par l’Ecole de la Statistique jusqu’à maintenant a été tracé par René Carmille, au cours de l’allocution qu’il prononça à Paris,le 2 Septembre 1942, à l’ouverture d’une réunion des Directeurs Régionaux de la zone occupée: “La statistique est une science appliquée en rapport avec les sciences économiques et les sciences sociales. Elle procède de diverses disciplines et son fondement, d’abord mathématique, repose aussi sur des connaissances d’ordre psychologique. ....................................................................................................... La statistique doit être une expression de la connaissance économique et de la connaissance sociale. Donc, à l’Ecole d’Application de notre Service, qui va s’ouvrir prochainement, c’est par la connaissance économique et la connaissance sociale qu’il faudra commencer. Sans ces connaissances, la technique statistique serait absolument vaine. Les cours principaux seront consacrés à l’étude des phénomènes économiques et des phénomènes sociaux pris dans tout ce qu’ils ont de mesurable et dans tout ce qu’ils ont de connexe entre eux . Cette notion de mesure est difficile à saisir parce que chaque science, en particulier chaque science économique et sociale, a besoin d’une mesure qui lui soit propre, en même temps qu’il faut, autant que possible, la rapporter à une mesure universelle. Cela nous mène à distinguer ce que l’on pourrait appeler une statistique physique et une statistique naturaliste. .......................................................................................................
+
+Cette Ecole a pu se développer et bien remplir sa mission parce que, pendant les 20 premières années, de 1942 à 1962, elle a été dirigée par Eugène Morice.
+
+
+
+
+
+Le choix d’Eugène Morice
+
+
+Le choix du premier Directeur de l’Ecole d’Application du SNS fût effectué par René Carmille avec beaucoup de soin, de réflexion ; c’est une des rares décisions dont il a parlé en famille, la jugeant particulièrement importante. Ce choix s'avéra judicieux puisque Eugène Morice fut directeur de cette École pendant 18 ans très estimés de tous. Eugène Morice a été choisi, après avis très favorable de Messieurs Divisia et Huber, parce qu'’ il était diplômé de l’Institut de Statistique de Paris et âgé de 45 ans, ni trop jeune ni trop vieux. Ce qui a été le plus déterminant, c’est que, en 1935, il participa à la rédaction d’un ouvrage sur le calcul des probabilités (calcul étroitement lié à la technique des sondages). Il publia, en 1938, dans la revue “Econométrica”, une étude sur la loi de l’offre et de la demande: “Le trafic postal en France.” René Carmille portait beaucoup d’intérêt aux articles d’Econométrica,et, en sa qualité de Maître de Conférences d’économie politique à l’Ecole libre des sciences politiques de Paris, une partie importante de ses cours portait sur l’étude des lois de l’offre et de la demande. Dans son livre “Vues d’économie objective,” il donna son avis sur les travaux de Robert Gibrat concernant les inégalités économiques et des propositions d’amélioration de la loi de dispersion de Gauss. Dans son livre "De Paul Reynaud à Charles de Gaulle", Alfred Sauvy a écrit, page 137 : "Carmille avait eu le grand mérite de prévoir un large usage des sondages statistiques (méthode éloignée du contrôle individuel)".
+
+
+
+
+
+ARRESTATION ET DÉPORTATION DU CONTRÔLEUR GENERAL RENE CARMILLE
+
+
+René Carmille a été arrêté par la gestapo de Lyon, dirigée par Barbie, dans son bureau de directeur général du Service National des Statistiques aux environs de midi(après la sortie du personnel). La gestapo ne prévoyait que son arrestation, mais son chef de cabinet, l'administrateur Raymond Jaouen a aussi été embarqué, seulement parce qu'il s'était violemment interposé [105] Aussitôt arrêté, il a été "interrogé" sans interruption pendant deux jours et il s'est avéré qu'il n'a pas "parlé". Il connaissait pourtant les noms,avec parfois les vrais et les faux, de nombreux membres des réseaux Français et Britanniques. Il connaissait les dirigeant de l'ORA du général Revers, de l'AS du général Delestraint, du Parti communiste clandestin de la zone Sud, alors dirigé par Fernand Grenier. Il en a eu d'autant plus de mérite qu'il avait été hospitalisé au Val de Grâce pendant un mois, en décembre 1938, pour un anévrisme au cerveau. Le Service de santé de l'Armée voulait entamer pour lui, une procédure de réforme qu'il refusa. Deux jours avant, le premier février 1944, Jacqueline Hardivillier, jeune commis du SNS, avait été arrêtée, alors qu'elle faisait partie, comme mon père du réseau Marco Polo, dépendant du BCRA de la France Libre. Dès cette arrestation, René Carmille était persuadé que la sienne allait suivre et il a pris, le 2 février, deux dispositions : il m'a envoyé en mission pour un mois à la direction régionale de Toulouse et il a envoyé immédiatement à Paris Suzanne Lacour, sa secrétaire particulière qui tapait ses documents secrets Également membre du réseau Marco polo et X 1921, l'inspecteur général de l'INSEE Lionel Wurmser recruté au Service de la Démographie le 20 décembre 1940 (décédé) a témoigné par écrit, signé et daté du 10 janvier 1958 : "Au moment de l'arrestation d'un agent du Service, j'étudie avec M. Carmille les mesures à prendre, mais je ne peux le convaincre de s'éloigner pendant trois ou quatre jours, pour laisser le temps à la réaction allemande de se manifester; Je sortais du bureau lorsque la Gestapo est venu arrêter le directeur général ".
+
+Il est clair que René Carmille a fait tout pour sauver l'outil qu'il avait construit pour la France. Dans la Note secrète du 27 juin 1945 "concernant l'action anti-allemande du Contrôleur Général de l'Armée Carmille, Directeur Général du Service National des Statistiques",il est signalé : "Aucune démarche officielle ou privée n'a pu faire préciser ce que la Police allemande avait pu identifier dans l'activité clandestine de M.Carmille. Seul un document subrepticement lu dans le Bureau d'un Intendant adjoint de Police à Lyon et provenant de la milice (document signé Darnand) a fait connaître que M. Carmille était incarcéré pour : attentat contre la sûreté de l'Armée allemande et coopération avec les éléments de la Résistance". cela est tout simplement inexact
+
+Cela est totalement inexact, car le Gouvernement français de Vichy n'a fait aucune démarche officielle, alors que quatre démarches privées ont été faites. La première démarche a été faite par ma mère qui le lendemain de l'arrestation s'est rendue de son chef et par ses propres moyens(non ceux du SNS) à Vichy où elle a eu un bref entretien avec un membre du cabinet de Philippe Pétain qui lui a dit que son mari avait été arrêté par la Gestapo et non par le Gouvernement français. Il lui fallait donc s'adresser à la Gestapo. La deuxième démarche a été faite par ma mère à la Gestapo. Elle s'est rendue immédiatement à la Gestapo de Vichy où on lui a dit de s'adresser à la Gestapo de Lyon. Elle est allée à la Gestapo de Lyon, accompagnée, à titre strictement personnel, par l'attaché du SNS Louis Martin qui lui a servi d'interprète. Ils ont été reçus par un gestapiste du nom de Öhler qui leur a déclaré : "le général Carmille était un grand ennemi de l'Armée allemande, qu'il avait reçu de l'argent de Londres et qu'il aidait des groupes de terroristes" Au cours de cet entretien, ils ont senti que ce gestapiste était très disposé à les arrêter ; mais ma mère a parfaitement joué l'innocente et ils purent repartir sur cette parole "Votre mari ne vous dit pas tout". La troisième démarche a été faite par Monsieur Virgile, PDG de la filiale française d'IBM (dont le nom était alors Compagnie Électro Comptable de France) qui a écrit à Berlin au Geheimrat Fellinger (une personnalité importante des services secrets allemands). pour demander pourquoi René Carmille a été arrêté, où il se trouvait et si sa famille pouvait lui envoyer des vivres. Ce Fellinger écrit le 18 juillet 1944 au conseiller d'administration militaire, Dr Weber pour lui faire part de la démarche de M. Virgile et ajoute qu'il ne lui répondra pas. Le DR Weber adresse une lettre au chef de la Gestapo du 72 avenue Foch, à Paris, où il signale que "le Contrôleur général de l'Armée René Carmille" (en français dans le texte) a été emprisonné le 3 février 1944 au fort Montluc à Lyon jusqu'au 19 juin 1944. Puis il a été conduit dans un camp de prisonniers civils à Compiègne pour y être emmené en Allemagne le 2 juillet 1944 [106] . La quatrième démarche a été faite, après la Libération, à titre strictement personnel, par l'administrateur, directeur régional du SNS de Lyon, Gaston Roques et par le commis principal du SNS. Ils étaient également membres du réseau Marco Polo et Jean Maissiat avait été emprisonné à Montluc vers le 15 février et il a été libéré lors du départ des Allemands Le gestapiste Öler qui avait reçu ma mère a été arrêté et emprisonné à son tour au fort Montluc par les Français. Gaston Roques et Jean Maissiat ont été autorisés à l'interroger Un compte-rendu de cet interrogatoire rédigé par eux se trouve aux Archives du SAEF, où j'ai pu le consulter, mais, il comporte des informations encore très confidentielles
+
+
+
+
+
+CONCLUSION
+
+
+Monsieur F, Divisia, X 1909, Inspecteur général des Ponts et chaussées Professeur d'Économique à l'École Poytechnique et au Conservatoire des Arts et Métiers, auteur de nombreux ouvrages d'Économie, d'Économétrie et de Statistique était de loin le plus documenté et le plus qualifié pour porter un jugement de qualité scientifique sur René Carmille qu'il a très bien connu sans interruption depuis 1924. Son jugement porté dans un de ses livres [107] est donc de bien meilleure qualité et plus impartial que celui que je pourrais faire. "René Carmille, qui, polytechnicien, puis officier d'artillerie, puis contrôleur de l'Armée, se pencha sur nos arsenaux avec toute la minutie technique de l'ingénieur, introduisit le premier l'organisation mécanographique dans nos industries d'État ; mais non content de les doter ainsi d'un moyen de comptabilité moderne aux énormes possibilités, il fait la philosophie de ces possibilités, écrit sur la mécanographie un véritable Discours sue la Méthode, et, élargissant considérablement le champ et la signification de cette technique, montre sa portée générale pour tous les enregistrements chiffrés, affirme que le relevé statistique, n'est le plus souvent, qu'un sous-produit des enregistrements comptables ou administratifs, fait, par là, pénétrer l'investigation statistique jusqu'au fond des opérations techniques où prennent naissance les données chiffrées qu'elle mettra en oeuvre, lui donnant ainsi une précision de contrôle et une puissance inégalée, créant à partir de là, pour son pays, - en pleine occupation allemande, dans des conditions héroïques qui lui ont valu la mot lente au cap de Dachau - l'organisation statistique perfectionnée qui lui manquait, en même temps qu'il dotait l'économique tout entière de moyens qu'elle n'aurait osé espérer. Certes, l'application de bien des idées de Carmille est encore, en France comme à l'étranger, dans le devenir, mais nous tenons pour sûr qu'on le reconnaîtra, plus tard, en ce domaine, non seulement comme un pionnier, mais comme un fondateur. C'est ici le lieu de mentionner aussi l'apport dé ja très prometteur, car il ne fait que débuter, de ce corps de fonctionnaires qu'il a créé de toutes pièces, recrutés d'abord parmi des statisticiens, des fonctionnaires et des officiers en vue notamment de camoufler sous couleur de démographie et de statistique, des opérations clandestines de réorganisation du recrutement militaire, puis, partie à l'École polytechnique et partie par concours, auxquels il a donné le nom d'Administrateurs du Service National des Statistiques et qu'il faudra un jour appeler "Ingénieurs de la Statistique et des Études économiques",car ce corps, à peine naissant et qui cherche encore quelque peu sa voie, assumera, nous en sommes persuadé, la belle et lourde tâche de la mise en oeuvre de cette "technique de l'économique" qui est entrain de se constituer". Cette recherche de statistiques établies avec une précision se rapprochant de l'exactitude des comptabilités pose un véritable débat de société qui avec l'informatique et maintenant avec la micro informatique travaillant en réseau est de plus en plu aigu et d'actualité. Ce débat n’est pas aussi simple qu’il ne paraît à certains qui ont parfois des opinions tranchées et différentes. Des statistiques très précises établies par des comptages individualisés peuvent présenter des avantages et des inconvénients qui dépendent essentiellement de ce que fait le pouvoir politique de la connaissance qu’il acquiert du comportement de chaque personne. Cette connaissance peut permettre à ce pouvoir de prendre des décisions bénéfiques pour la collectivité, sans être attentatoires aux libertés individuelles. Elle peut, aussi, faciliter à un pouvoir politique dévoyé, des dérapages pernicieux. En d’autres termes, il ne convient pas de juger l’outil bon ou mauvais, mais son utilisation par l’homme. L’action de René Carmille, pendant l’occupation, est, dans les deux sens, une très bonne illustration de cela. Il a construit un outil qui a facilité la mobilisation de l'Armée d'Afrique du Nord et qui a donné naissance à l'INSEE. Il est parvenu à ne pas fournir d'informations aux autorités policières allemandes ou françaises de Vichy. En 1955, l'inspecteur général de l'INSEE , ancien statisticien de la SGF , a eu, à mon avis, en partie seulement raison d'écrire en 1955 dans le bulletin de l'Association Amicale des Ingénieurs de la Statistique : "La doctrine exposée par René Carmille pouvait se justifier à l'époque et dans les circonstances très particulières où elle fut mise en oeuvre, ainsi que pour les fins qu'il avait en vue, mais qu'elle revêt , dans un pays revenu à des conditions normales d'existence, le caractère d'une conception purement théorique et assez utopique. D'autre part, il est certain que nul ne sait ce que cette doctrine serait devenue dans l'esprit même de René Carmille après la Libération du Territoire".
+
+René Carmille ayant toujours fait preuve de pragmatisme, il est certain qu'il n'aurait pas, après la Libération, géré les affaires courantes, comme le fit le directeur général par intérim En 1943, il a dit à un de ses collaborateurs, ancien chef d'escadron, qu'il n'aurait pas sa place dans le Service qu'il construisait. Il est certain qu'en faisant étudier, depuis 1941, la théorie et les applications pratiques des sondages par quatre polytechniciens, un agrégé de philosophie et un ancien et très compétent directeur de la SGF, qu'il voulait beaucoup développer les enquêtes par sondage pour lesquelles il est nécessaire de disposer à certains intervalles de temps de recensements exhaustifs. C'est bien ce que fait l'INSEE.
+
+Quant au répertoire d'identification des personnes physiques, ce n'était pas une entreprise particulièrement utopique, puisqu'il se perpétue, même, si, à juste titre, la CNIL en a limité les utilisations.
+
+
+
+
+
+Notes
+
+
+↑ Les journées de Vaucresson du 23 au 25 juin 1976 pour lesquelles le directeur général de l’INSEE, Edmond Malinvaud avait rassemblé de nombreux professeurs d’Université, des cadres de l’INSEE, de l’INED, du CNRS, etc. a donné lieu à la publication de gros volumes consacrés en grande partie à la période 1650 à 1970. Une dizaine de pages sont consacrées à la période de l’occupation.
+
+↑ L’atelier mécanographique de l’Établissement central de Lyon que je dirigeais de mars 1943 à fin avril 1944 travaillait en très grande partie sur instructions orales secrètes, alors que son directeur recevait les instructions officielles qu’il conservait dans son bureau et pouvait éventuellement montrer aux Allemands des commissions de contrôle. Certaines directions régionales recevaient plus que d’autres des instructions secrètes et trois ou quatre, aucune.
+
+↑ Sur une partie de ces sujets, j’ai déjà publié quatre brochures, en février 1995, en mars 1996, en août 1996 et en juillet 1998, que l’on peut trouver dans les bibliothèques de l’INSEE et de l’INED.
+
+↑ Archives du SHAT, dossier personnel de René Carmille..Cette partie est extraite d’un compte-rendu de 37 pages du 15 juin 1941 adressé au contrôleur général Bois par le contrôleur général Carmille sur son activité au ministère de la Guerre de 1927 à 1940.
+
+↑ Il faut se souvenir que, fin juin 1940, Lyon fut occupé par les troupes d’occupation pendant quelques semaines.
+
+↑ En 1935, René Carmille avait eu au sujet de cette nomenclature quelques entretiens avec Michel Huber, alors directeur de la SGF, entretiens jugés par lui très satisfaisants. Nous verrons plus loin que René Carmille s’en souviendra en mars 1941.
+
+↑ René Carmille, “Moyens statistiques et science économique.”, Revue politique et parlementaire, (mars 1933) : pages 271 à 284.
+
+↑ « Revue politique et parlementaire » d’avril 1927, pages 40 à 52.
+
+↑ Ibidem, pages 377 à 386.
+
+↑ Ibidem, pages 197 à 212.
+
+↑ Ibidem, pages 271 à 284.
+
+↑ « Vues d’économie objective » par René Carmille, février 1935. Édition Sirey, 282 pages (pages 232 à 234). Un exemplaire se trouve à la bibliothèque de l’Institut d’Études Politiques de Paris, rue Saint Guillaume.
+
+↑ En Note dans le texte cité : « La langue allemande elle — même est une preuve de cet état d’esprit. Ce n’est pas le verbe sein (être) qui est l’auxiliaire principal mais bien le verbe werden (devenir), et que l’on songe à l’importance des six autres auxiliaires de mode qui deux à deux signifient pouvoir, vouloir, devoir ».
+
+↑ Revue d’Économie Politique et Parlementaire
+
+↑ Ibidem, pages 31 à 52.
+
+↑ J’ai conservé le carnet des notes chiffrées et littérales qu’il a attribuées de 1928 à 1939, dont une à un élève qui est devenu après la Libération ministre des Affaires Étrangères et Premier ministre. La seule élève à qui il a donné la note 20 était alors Mlle France Weiss.
+
+↑ R. A.Virgile, “Titre”, Bulletin Hollerith, N° 44 (14 mai 1936) : pages 2 et 3.
+
+↑ Un extrait de cette conférence a été publié dans « X Crise » d’octobre 1937, N° 41, page 29.
+
+↑ La première édition est de 1936. La deuxième édition de 1941 est identique à la première, avec en plus un deuxième » avant — propos « , et un chapitre supplémentaire » Recensement démographique" et une modification du dernier paragraphe de la conclusion.
+
+↑ Archives du SAEF, PH 59 / 99 carton 4 boite 9-notes de l’administrateur du SNS Sassi sur la théorie des sondages.
+
+↑ « Le Contrôle de l’administration de l’Armée 1882-1932 » Charles Lavauzelle, éditeurs militaires-1933-pages 166 et 167.
+
+↑ Bien que, mis en service détaché au ministère des Finances comme directeur, puis comme directeur général du SNS, il n’a perçu que le traitement de contrôleur général de l’Armée, alors que son adjoint (imposé par Laval), le contrôleur de l’Armée Bourdoncle de Saint Salvy a perçu son traitement d’inspecteur général du SNS.
+
+↑ Pendant ces quatre mois, j’ai résidé à coté de mon père dans une de ces deux chambres et j’ai connu certains de ses interlocuteurs.
+
+↑ Certains chefs de Bureaux départementaux sauvèrent des archives sans en avoir reçu l’ordre et l’un deux devait un peu plus tard en être félicité par le directeur de la Démographie qui l’avait intégré dans le Service.
+
+↑ René Carmille avait fait venir cet officier du Recrutement, non mécanographe, pour lui attribuer dans le futur Service la fonction de chef du personnel. Le 15 octobre, cet officier fut rayé, sans traitement des cadres de l’Armée par le Gouvernement de Vichy pour son appartenance à une « association sécrète ».
+
+↑ Archives du SAEF, B 55 349 — Considération de principe sur le projet de création d’un service mécanographique présenté par la direction de l’Infanterie-A Royat, le 16 août 1940, signé Le Contrôleur Général Carmille.
+
+↑ Archives du SAEF B 55 349 Compte-rendu de l’activité du Contrôleur général Carmille pendant la période du premier septembre 1939 au 30 septembre 1940, daté du 10 juin 1942, signé Carmille.
+
+↑ Pendant l’occupation, la direction du Contrôle de l’Armée, dirigée par le Contrôleur général Lachenaud était restée à Paris, mais en raison de la ligne de démarcation, un échelon de la direction avait été installée à Lyon, place Carnot, dirigé par le contrôleur général Bois.
+
+↑ En novembre 1941, la deuxième édition de son livre « La mécanographie dans les administrations » m’a été dédicacée ainsi : "Ce livre qui représente dix ans d’observation, de réflexion et de ténacité.
+
+↑ Archives du SHAT cote 1 P 19, lettre N° 6945 — I / EMA du 15 novembre 1940.
+
+↑ Cette information se retrouve dans plusieurs livres sur l’histoire des Vichy et dans les archives de l’ORA.
+
+↑ Plusieurs de ces officiers sont morts en déportation.
+
+↑ Annexe N° XII. Archives du SAEF, dossier personnel d’Eugène Ostenc.
+
+↑ Cette note de service, signée René Carmille, signale que cette section est directement rattachée au cabinet Lyon du directeur général. Archives du SAEF.
+
+↑ Ce fait est d’autant plus significatif que le directeur retraité de la SGF depuis 1936 a travaillé pendant huit mois pour aider le directeur de la Démographie et non le directeur en activité et en fonction de la SGF !
+
+↑ Lorsqu’il obtint en juillet 1943 la création du « Comité Supérieur de la Statistique et de la Documentation », René Carmille fit nommer Divisia membre de ce comité au titre des « personnes qualifiées ».
+
+↑ Archives du SAEF, carton 4, boite 9— Ces rapports comportent en tout une centaine de pages et montrent tout l’intérêt porté par René Carmille à des enquêtes non exhaustives. Pierre Thionet, administrateur de l’INSEE, devait, quelques années plus tard, critiquer ces rapports (surtout celui de Monsieur Stoetzel) et cependant les utiliser.
+
+↑ Cette information figure déjà (page 12) dans ma brochure « Contribution à l’histoire des services statistiques français 1940-1946 » de février 1995.
+
+↑ Note pour la IIIe direction du 14 décembre 1943, 02-n° 613 / C, signée Basset, chef du cabinet Paris.
+
+↑ Rapport du lieutenant-colonel Braconnot au directeur général (p.i) du SNS du 23 octobre 1945. Archives du SAEF.
+
+↑ La préparation avortée de la mobilisation clandestine en France métropolitaine a facilité la mobilisation officielle en Afrique du Nord !
+
+↑ Une copie de ce document m’a été remise en 1995 par l’inspecteur général Gaudriault qui le possédait depuis 1945.
+
+↑ Colonel A. de Dainville, L’ORA-La résistance de l’Armée / guerre 39 / 45 (Paris : Lavauzelle Paris, octobre 1974).
+
+↑ Annexe I— Archives du SAEF PH 59 / 99 carton 4 boîte 8
+
+↑ Annexe I— Archives du SAEF PH 59 / 99 carton 4 boîte 8
+
+↑ Annexe N° III Archives du SHAT, dossier personnel du Contrôleur Général René Carmille. Il en existait un exemplaire au SAEF qui a disparu depuis longtemps. Elle peut être reproduite, ayant été déclassée récemment par la direction du SHAT.
+
+↑ Cette citation faite par monsieur Gaudriault se trouve bien dans le document figurant à l’annexe No I.
+
+↑ Auparavant, Gaudriault s’était rendu une fois dans les caves de ce Collège pour y mesurer l’hygrométrie et s’assurer que les locaux étaient appropriés à une bonne conservation des cartes. Gaudriault a écrit dans ce rapport qu’il avait transporté ce fichier avec Sassi dans une charrette à bras à travers les rues de Lyon jusqu’à la gare.
+
+↑ Cette opération m’est plus facile à reconstituer exactement parce que, en qualité de chef de l’atelier mécanographique de l’Établissement central, j’y ai beaucoup participé, ainsi que mon subordonné le chef opérateur Barbezieux
+
+↑ Le lieutenant Caffot fut emmené le 4 septembre 1943 par un avion de l’IS et après avoir séjourné à Londres et en Alger, il revint en France parachuté dans la région de Compiègne. À Londres, il remit à l’IS un exemplaire de l’appareil composteur du numéro d’identification, un modèle de la nouvelle carte d’identité et des informations pour l’établissement de « fausses— vraies » identités
+
+↑ Depuis août 1940, l le contrôleur Conquet avait été révoqué de l’Armée sans solde ni retraite par le Gouvernement de Vichy pour son appartenance à la franc-maçonnerie. René Carmille lui donna l’ordre et les moyens de gagner clandestinement Alger où il fut immédiatement réintégré dans son grade et ses fonctions dans la nouvelle Armée française
+
+↑ Archives du SAEF PH 59 / 99 carton 4 boite 8 Lettre manuscrite de 3 pages du 6 mars 1949 N° 229, signée Jean Bressot-Perrin.Les détails qu’il donne correspondent bien avec ce qui était demandé à Marseille et à Toulouse
+
+↑ Cela n’a pas empêché un agent de l’INSEE de se vanter, bien après la Libération et par un écrit archivé, d’avoir continué tout seul en juin 1944 cette opération qu’il ne connaissait pas et de plus à des endroits où elle avait été juste amorcée fin 1943
+
+↑ Annexe N° IV Archives du SAEF, PH 59 / 99 carton 4 boite 8.
+
+↑ Archives du SHAT, dossier personnel
+
+↑ Archives du SAEF-Dossier personnel
+
+↑ Archives du SAEF-PH 59 / 99 carton 4 boite 8,.
+
+↑ Archives du SAEF
+
+↑ Cette liste établie avec les documents archivés au SAEF ne concerne pas les agents des directions régionales parce qu’il faut beaucoup de temps pour dépouiller tous les dossiers, lorsque l’on s’efforce de trier les témoignages sérieux et de ne pas retenir les affabulations
+
+↑ Archives du SAEF-dossier personnel
+
+↑ Archives du SAEF, PH 59/ 99 carton 4, boite 8
+
+↑ Annexe IV-Archives Nationales
+
+↑ Annexe V
+
+↑ Archives du SAEF : Inspection de l’Établissement central du 26 au 28 novembre 1946, page 9 : « Le directeur ne réunit pas ses chefs de service à date fixe, mais les voit tous les jours dans les ateliers. »
+
+↑ Robert Carmille, Numéro d’identité et répertoire national d’identification des personnes physiques, Imp. INSEE AI DG 03 1996 : 43 Pages.
+
+↑ Hébert.— « De l’utilité d’un système général d’immatriculation des hommes, des immeubles et des titres », 1844
+
+↑ En 1938, René Carmille fit installer un atelier mécanographique au Bureau de Recrutement de Rouen. Il ne m’a pas encore été possible de savoir si cet atelier a utilisé le numéro matricule modèle 1935 ou déjà un modèle se rapprochant plus ou moins du numéro d’identification de 1941
+
+↑ La constitution du répertoire pour les années de naissance de 1881 à 1940, qui a duré trois à quatre mois, a coûté quatre millions de francs, soit un peu plus que le budget total de la SGF pour l’année 1939 !
+
+↑ Ensuite, il ne faudra plus enregistrer que les naissances années après années, les relevés étant effectués par les mairies et adressés au SNS, puis à l’INSEE, sous la forme de « bulletins d’état-civil ».
+
+↑ Avec le recours aux greffiers le coût a été de 4 millions de francs alors qu’il se serait normalement élevé à 6 millions de francs. À comparer avec le budget total de la SGF de l’année 1939 qui était de 3, 5 millions de francs.
+
+↑ Cela explique pourquoi ces relevés ont été faits en partie par les agents de la Démographie dans les grandes villes, sièges des directions régionales.
+
+↑ Archives du SAEF
+
+↑ Dans le rapport Azéma-Lévy Bruhl-Touchelay de juillet 1998 (page 56), cette note complètement déconnectée des réalités est considérée comme apportant la preuve indéniable de l’existence dans les répertoires de l’Algérie des codes 3, 4, 5 et 6 !
+
+↑ Annexe VI— Copie de la note 705 / 02 du 11 avril 1941 avec le modèle de la liste à remplir par les greffiers, la liste d’identification et une page du répertoire ancien de l’Algérie dont on ignore la date de son début, soit 7 pages
+
+↑ Annexe Photocopie de cet imprimé modèle I avec des noms fictifs donnés pour l’exemple. Archives du SAEF
+
+↑ Dans la lettre du 25 mars 1941 citée ci-dessus, la rémunération indiquée était seulement de 8 centimes la ligne
+
+↑ En 1941 : Directions régionales de Clermont-Ferrand, Limoges, Lyon, Montpellier, Marseille, Toulouse et Alger pour la zone non occupée et Paris, Rouen, Rennes, Nantes, Orléans, Bordeaux, Dijon, Reims, Nancy et ultérieurement Lille, Amiens. (Cet ordre non alphabétique est celui figurant à la fin de cette instruction).
+
+↑ Ce droit est toujours conservé par la direction générale de l’INSEE
+
+↑ A Marseille, où il n’est tenu qu’un seul registre d’État-Civil, le nombre mensuel des naissances pouvant être supérieur à 999, il a été attribué à cette ville deux numéros de commune, le 055 et le 155
+
+↑ Chaque direction régionale devra acheter dans le commerce local ces classeurs dont le prix unitaire est évalué par la direction centrale de la Démographie à environ 15 francs
+
+↑ Archives du SAEF. L’administrateur Armand Malval était chef du service Organisation de la Démographie, service qui est devenu la IIe direction « Démographie » du SNS
+
+↑ Annexe N° VII Archives du SAEF PH 59 / 99 carton 1 boite 2
+
+↑ Statistique Générale de la France, Annuaire statistique (Paris : Imprimerie Nationale, 1941) cinquante-cinquième volume-1939
+
+↑ Annexe N°VIII- Tableau de la page 268 du 1° volume de l'annuaire statistique de la SGF
+
+↑ Tableau récapitulatif de la population de la Tunisie de 1881 à 1936 ; même annuaire, page 279
+
+↑ Des différences existaient concernant les mariages, les indigènes musulmans pouvant pratiquer "la répudiation".
+
+↑ La lettre N° III F- STAT/ D du 23 janvier 1952 du chef de la Statistique de l'Algérie au directeur général de l'INSEE signale que dans certaines parties du territoire algérien la constitution de l'éta-civil musulman n'est pas encore terminée. Archives du SAEF PH 59 / 99 carton 1 boite 2
+
+↑ Selon l'annuaire de la SGF de 1941, ces Juifs du M'zab étaient recensés de 1881 à 1936 comme sujets Français indigènes et non comme Français au titre du décret du 24 octobre 1870
+
+↑ JO du 8 octobre 1940, page 5234
+
+↑ Mesure symbolique parce que l'État français n' a pas organisé d'élections politiques
+
+↑ Archives du SAEF, PH 59 / 99 carton 1 boite 2.
+
+↑ L'histoire de ce convoi N° 7909 a fait l'objet d'un livre de 365 pages de Christian Bernadac "le train de la mort", 1970- éditions France-empire.
+
+↑ Annexe N° IX : photocopie de cette lettre.
+
+↑ Toute cette correspondance de Henri Bunle au sujet du recensement des Juifs est relatée dans le livre de Joseph Billig "Le Commissariat aux Questions Juives" -Édition du Centre 1(955),ainsi que dans le Bulletin de l'Amicale Internationale des Démographes de langue française (AIDLF) de 1983
+
+↑ Annexe N° X : photocopie de cette lettre de 3 pages
+
+↑ Archives du SAEF, PH 59/99, carton 4, boite 7.
+
+↑ Sur cette affaire, me rendant plusieurs fois dans les services des Archives départementales  à Lille , Clermont-Ferrand , Toulouse et Marseille ainsi qu'aux Archives nationales et au SAEF, j'ai constitué un important dossier pour une publication ultérieure.
+
+↑ Les directeurs régionaux de Lille et Marseille furent emprisonnés, puis relâchés avec un non-lieu.. Le directeur de Toulouse ne fut pas emprisonné à la Libération parce qu'il était déporté en Allemagne, mais deux administrateurs le furent à sa place dont l'un d'eux devait terminer sa carrière comme inspecteur général de l'INSEE
+
+↑ Archives du SAEF
+
+↑ Dans ce rapport d'octobre 1945, il est signalé que la direction régionale de Paris possède 1 758 000 cartes mécanographiques imprimées STO, mais non perforées, dont elle ne sait que faire
+
+↑ Dans ma brochure de février 1995 déjà citée, j'avais signalé que cela n'était pas exact, références à l'appui, mais cette erreur a manifestement la vie dure
+
+↑ Archives du SAEF
+
+↑ Ce concours exigeait également quelques connaissances en nosologie, c’est à dire la classification des maladies
+
+↑ Alfred Sauvy, “La vie en plus” édition CALMANN-LEVY, page 45
+
+↑ Raymond Jaouen, âgé d'environ 30 ans et père de deux enfants a été déporté de Compiègne à Dachau dans le même convoi du 2 juillet 1944 où se trouvait mon père. Pendant le trajet de quatre jours, il a fait partie des 984 morts sur les 2 581 déportés au départ
+
+↑ Ces deux lettres se trouvent aux AN-10 / 8 / 93 - AJ / 40 / 755
+
+↑ F. Divisia, Exposés d'Économique (Paris : Dunod, novembre 1950) tome I
+
+
+
+
+
+À propos de cette édition électronique
+
+
+Ce livre électronique est issu de la bibliothèque numérique Wikisource[1]. Cette bibliothèque numérique multilingue, construite par des bénévoles, a pour but de mettre à la disposition du plus grand nombre tout type de documents publiés (roman, poèmes, revues, lettres, etc.)
+
+Nous le faisons gratuitement, en ne rassemblant que des textes du domaine public ou sous licence libre. En ce qui concerne les livres sous licence libre, vous pouvez les utiliser de manière totalement libre, que ce soit pour une réutilisation non commerciale ou commerciale, en respectant les clauses de la licence Creative Commons BY-SA 3.0[2] ou, à votre convenance, celles de la licence GNU FDL[3].
+
+Wikisource est constamment à la recherche de nouveaux membres. N’hésitez pas à nous rejoindre. Malgré nos soins, une erreur a pu se glisser lors de la transcription du texte à partir du fac-similé. Vous pouvez nous signaler une erreur à cette adresse[4].
+
+Les contributeurs suivants ont permis la réalisation de ce livre :
+
+[La liste des contributeurs a été omise, comme demandé.]
+
+
+
+
+
+* * *
+
+
+
+↑ http://fr.wikisource.org
+
+↑ http://creativecommons.org/licenses/by-sa/3.0/deed.fr
+
+↑ http://www.gnu.org/copyleft/fdl.html
+
+↑ http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur
+
+
+
+
+
