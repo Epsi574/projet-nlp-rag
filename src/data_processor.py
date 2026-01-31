@@ -121,16 +121,21 @@ def extract_auto_metadata(text: str, filename: str) -> Dict[str, str]:
         Dictionnaire avec 'source' et 'language'
     """
     header = text[:1000]
-    
-    # Déterminer la source
+    footer = text[-1000:]
+
+    # Déterminer la sources
     source = "Archive historique"
-    if "wikisource" in header.lower():
+    header_lower = header.lower()
+    footer_lower = footer.lower()
+    if "wikisource" in header_lower or "wikisource" in footer_lower:
         source = "Wikisource"
-    elif "gallica" in header.lower():
+    elif "gallica" in header_lower or "gallica" in footer_lower:
         source = "Gallica BnF"
-    elif "journal officiel" in header.lower():
+    elif "journal officiel" in header_lower or "journal officiel" in footer_lower:
         source = "Journal Officiel"
-    elif "convention" in filename.lower() or "déclaration" in filename.lower():
+    elif "encyclopaedia britannica" in header_lower or "encyclopaedia britannica" in footer_lower:
+        source = "Encyclopaedia Britannica"
+    elif "convention" in filename.lower() or "déclaration" in filename.lower() or "traite" in filename.lower():
         source = "Document officiel"
     
     # Déterminer la langue
