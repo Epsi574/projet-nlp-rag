@@ -4,6 +4,16 @@ import os
 from pathlib import Path
 
 from dotenv import load_dotenv
+import sys
+import os
+import certifi
+
+# Force httpx / transformers à utiliser le certificat CA de certifi pour venv
+os.environ["SSL_CERT_FILE"] = certifi.where()
+# Ajouter le répertoire parent au path
+ROOT = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(ROOT))
+
 
 from src.llm_client import LLMClient
 from src.questions_parser import parse_questions_from_text

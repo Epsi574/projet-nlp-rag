@@ -11,7 +11,11 @@ Exemple:
 import argparse
 from pathlib import Path
 import sys
+import os
+import certifi
 
+# Force httpx / transformers à utiliser le certificat CA de certifi pour venv
+os.environ["SSL_CERT_FILE"] = certifi.where()
 # Ajouter le répertoire parent au path
 ROOT = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(ROOT))
